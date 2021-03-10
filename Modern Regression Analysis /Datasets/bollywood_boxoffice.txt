@@ -1,55 +1,55 @@
 Movie	Gross	Budget
-Ek Villain 	95.64	36
-Humshakals 	55.65	77
-Holiday 	110.01	90
-Fugly 	11.16	16
-City Lights 	5.19	9.5
+Ek Villain	95.64	36
+Humshakals	55.65	77
+Holiday	110.01	90
+Fugly	11.16	16
+City Lights	5.19	9.5
 Kuku Mathur Ki Jhand Ho Gayi	2.23	4.5
-Heropanti 	49.07	26
+Heropanti	49.07	26
 2 States	101.61	36
-Main Tera Hero 	53.04	39
+Main Tera Hero	53.04	39
 Ragini MMS 2	46.59	18
 Queen 	61.47	24
 Gunday 	72.26	52
 Jai Ho 	107.71	120
-Kochadaiiyaan (All Languages India) 	23.07	125
-The Xpose 	11.69	16
-Hawa Hawaai 	10.42	11
-Mastram 	3.36	5.5
-Koyelaanchal 	2.17	8
-Yeh Hain Bakrapur 	0.97	4.5
+Kochadaiiyaan (All Languages India)	23.07	125
+The Xpose	11.69	16
+Hawa Hawaai	10.42	11
+Mastram	3.36	5.5
+Koyelaanchal	2.17	8
+Yeh Hain Bakrapur	0.97	4.5
 Manjunath	1.02	5
-Purani Jeans 	1.28	11
+Purani Jeans	1.28	11
 Kya Dilli Kya Lahore	0.63	5.5
-Revolver Rani 	9.44	26
+Revolver Rani	9.44	26
 Kaanchi	3.93	29
-Samrat & Co 	2.1	16
-Bhootnath Returns 	34.03	34
-Youngistaan 	6.76	27
-Dishkiyaoon 	5.79	9
+Samrat & Co	2.1	16
+Bhootnath Returns	34.03	34
+Youngistaan	6.76	27
+Dishkiyaoon	5.79	9
 O Teri 	3.72	16
-Gang Of Ghosts 	1.55	16
-Bewakoofiyaan 	12.06	22
-Gulaab Gang 	13.32	27
-Total Siyappa 	5.91	18
-Shaadi ke Side Effects 	37.95	43
-Highway 	27.71	32
-Darr @ Mall 	5.7	15
-Hasee Toh Phasee 	36.52	24
-Heartless 	1.16	11
-One By Two 	2.41	12
-Yaariyan 	31.04	19
-Dedh Ishqiya 	25.87	31
+Gang Of Ghosts	1.55	16
+Bewakoofiyaan	12.06	22
+Gulaab Gang	13.32	27
+Total Siyappa	5.91	18
+Shaadi ke Side Effects	37.95	43
+Highway	27.71	32
+Darr @ Mall	5.7	15
+Hasee Toh Phasee	36.52	24
+Heartless	1.16	11
+One By Two	2.41	12
+Yaariyan	31.04	19
+Dedh Ishqiya	25.87	31
 Sholay 3D	11.25	20
-Joe B Carvalho 	3.83	10
+Joe B Carvalho	3.83	10
 Dhoom 3 (Hindi)	262.58	150
 Chennai Express	208.44	130
 Krrish 3 (Hindi)	181.11	115
 Yeh Jawani Hain Deewani	185.83	50
-R Rajkumar  	66.1	65
-Ram Leela  	112.96	83
-Boss 	52.38	72
-Besharam 	55.79	78
+R Rajkumar	66.1	65
+Ram Leela	112.96	83
+Boss	52.38	72
+Besharam	55.79	78
 OUATIMD	60.93	80
 Bhag Milkha Bhag	109.18	52
 Race 2	96.34	65
@@ -61,30 +61,30 @@ Newton	17	15
 HaseenaParkar	6.5	30
 JaiLavaKusa	125	75
 Simran	14.5	30
-Baadshaho 	67.9	80
-ShubhMangalSavdhan 	40.39	25
+Baadshaho	67.9	80
+ShubhMangalSavdhan	40.39	25
 ToiletEkPremKatha	131.78	40
 JabHarryMetSejal	62.45	80
-Mubarakan 	54.1	70
-JaggaJasoos 	52	75
+Mubarakan	54.1	70
+JaggaJasoos	52	75
 Tubelight	117.02	100
 HindiMedium	60.85	23
 Baahubali2(Hindi)	500.75	80
-BadriKiDulhania 	114.1	42
+BadriKiDulhania	114.1	42
 JollyLLB2	107.4	45
-Raees 	131.65	85
+Raees	131.65	85
 Kaabil	92.85	60
 Bhoomi	10	30
-Spyder 	110	120
+Spyder	110	120
 LucknowCentral	11.25	30
 AGentleman	17.15	60
-PosterBoys 	11.25	30
+PosterBoys	11.25	30
 BareillyKiBarfi	25.3	20
 BabumoshaiBandookbaaz	6	14
-MunnaMichael 	31.5	45
-Vivegam 	157	75
-HalfGirlfriend 	54.5	48
-Mom 	31	40
+MunnaMichael	31.5	45
+Vivegam	157	75
+HalfGirlfriend	54.5	48
+Mom	31	40
 Sachin 	50.25	30
 LipstickUnderBurkha 	14.85	6
 InduSarkar 	4.7	11
