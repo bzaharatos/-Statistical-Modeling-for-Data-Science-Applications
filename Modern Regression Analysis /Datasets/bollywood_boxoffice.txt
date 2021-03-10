@@ -9,9 +9,9 @@ Heropanti	49.07	26
 2 States	101.61	36
 Main Tera Hero	53.04	39
 Ragini MMS 2	46.59	18
-Queen 	61.47	24
-Gunday 	72.26	52
-Jai Ho 	107.71	120
+Queen	61.47	24
+Gunday	72.26	52
+Jai Ho	107.71	120
 Kochadaiiyaan (All Languages India)	23.07	125
 The Xpose	11.69	16
 Hawa Hawaai	10.42	11
@@ -27,14 +27,14 @@ Samrat & Co	2.1	16
 Bhootnath Returns	34.03	34
 Youngistaan	6.76	27
 Dishkiyaoon	5.79	9
-O Teri 	3.72	16
+O Teri	3.72	16
 Gang Of Ghosts	1.55	16
 Bewakoofiyaan	12.06	22
 Gulaab Gang	13.32	27
 Total Siyappa	5.91	18
 Shaadi ke Side Effects	37.95	43
 Highway	27.71	32
-Darr @ Mall	5.7	15
+Darr @ Mall	5.7	15
 Hasee Toh Phasee	36.52	24
 Heartless	1.16	11
 One By Two	2.41	12
@@ -85,38 +85,38 @@ MunnaMichael	31.5	45
 Vivegam	157	75
 HalfGirlfriend	54.5	48
 Mom	31	40
-Sachin 	50.25	30
-LipstickUnderBurkha 	14.85	6
-InduSarkar 	4.7	11
+Sachin	50.25	30
+LipstickUnderBurkha	14.85	6
+InduSarkar	4.7	11
 Raabta	20.7	50
-GuestIinLondon 	7.5	25
-DuvvadaJagannadham 	92	75
+GuestIinLondon	7.5	25
+DuvvadaJagannadham	92	75
 BehenHogiTeri	2	15
-BankChor 	6.93	15
-NaamShabana 	33.25	40
-Phillauri 	24	21
+BankChor	6.93	15
+NaamShabana	33.25	40
+Phillauri	24	21
 Sarkaar3	9.25	35
 MeriPyariBindu	9.25	22
 Noor	6.6	22
-BegumJaan 	17.75	19
-ManjeBistre(Punjabi) 	14.71	10
-Machine 	3.25	25
-Katamarayudu 	84.5	70
+BegumJaan	17.75	19
+ManjeBistre(Punjabi)	14.71	10
+Machine	3.25	25
+Katamarayudu	84.5	70
 Commando2	21.9	20
 Rangoon	19.41	70
-GhaziAttack 	18.5	60
-Dangal 	386.33	125
-OkJaanu 	19.81	28
-Befikre 	58.69	70
+GhaziAttack	18.5	60
+Dangal	386.33	125
+OkJaanu	19.81	28
+Befikre	58.69	70
 DearZindagi	65	45
-AeDilHainMushkil 	107.25	92
-Shivaay 	87.25	120
-Dhoni 	127.04	104
+AeDilHainMushkil	107.25	92
+Shivaay	87.25	120
+Dhoni	127.04	104
 Rustom	124.5	65
 MohenjoDaro	56.11	115
 Dishoom	67	65
 Sultan	300.22	90
-Pink 	63.21	26
+Pink	63.21	26
 Force2	31.73	45
 WajahTumHo	8.9	13
 Kahaani2	28.1	35
@@ -125,14 +125,14 @@ RockOn2	10.6	45
 Mirzya	8.5	35
 TumBin2	3.5	15
 FlyingJatt	35.55	50
-BaarBaarDekho 	30.65	46
+BaarBaarDekho	30.65	46
 Raaz4	24.73	30
 Akira	24.65	30
 MotuPatlu	4	10
-Banjo 	8.5	30
+Banjo	8.5	30
 Parched	1.2	18
 JanathaGarage(Telugu)	125	40
-FreakyAli 	13.05	19
+FreakyAli	13.05	19
 Kabali(Hindi)	24	90
 Kabali(India)	175	90
 Madari	12.25	24
@@ -143,7 +143,7 @@ RamanRaghav2	5.45	7
 Sardaarji2(Punjabi)	13.75	11
 Housefull3	107.54	85
 TE3N	18.16	28
-Airlift 	123.43	40
+Airlift	123.43	40
 Baaghi	75.17	47
 Fan	83.25	105
 Sarabjit	25.4	30
@@ -172,20 +172,20 @@ Loveshuda	3	20
 SanamRe	21.9	20
 Fitoor	17.68	60
 Ghayal2	36.66	40
-SanamTeriKasam 	5.55	21
-Mastizaade 	17.75	30
-SaalaKhadoos 	7	22
-KyaKoolHainHum 	26.91	28
-Wazir 	35.18	45
+SanamTeriKasam	5.55	21
+Mastizaade	17.75	30
+SaalaKhadoos	7	22
+KyaKoolHainHum	26.91	28
+Wazir	35.18	45
 BajiraoMastani	177.64	120
-NannakuPrematho 	27.94	52
+NannakuPrematho	27.94	52
 Dilwale	142.29	130
 Tamasha	66.45	75
 PremRatanDhanPayo(Hindi)	190.02	140
-Shandaar 	38.71	68
-SinghisBliing 	74.87	92
-Hero 	31.75	28
-WelcomeBack 	96.88	100
-Brothers 	77.18	82
-Drishyam 	65.22	65
+Shandaar	38.71	68
+SinghisBliing	74.87	92
+Hero	31.75	28
+WelcomeBack	96.88	100
+Brothers	77.18	82
+Drishyam	65.22	65
 BajrangiBhaijaan	318.14	125
