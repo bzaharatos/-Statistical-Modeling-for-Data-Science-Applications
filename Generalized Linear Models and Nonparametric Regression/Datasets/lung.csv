@@ -1,26 +1,25 @@
-ï»¿Â  Â  Â city Â ,age Â ,pop c,ases
-Â Fredericia,40-54,3059,Â  Â 11
-Â  Â  Horsens,40-54,2879,Â  Â 13
-Â  Â  Kolding,40-54,3142,Â  Â  4
-Â  Â  Â  Vejle,40-54,2520,Â  Â  5
-Â Fredericia,55-59,Â 800,Â  Â 11
-Â  Â  Horsens,55-59,1083,Â  Â  6
-Â  Â  Kolding,55-59,1050,Â  Â  8
-Â  Â  Â  Vejle,55-59,Â 878,Â  Â  7
-Â Fredericia,60-64,Â 710,Â  Â 11
-Â  Â  Horsens,60-64,Â 923,Â  Â 15
-Â  Â  Kolding,60-64,Â 895,Â  Â  7
-Â  Â  Â  Vejle,60-64,Â 839,Â  Â 10
-Â Fredericia,65-69,Â 581,Â  Â 10
-Â  Â  Horsens,65-69,Â 834,Â  Â 10
-Â  Â  Kolding,65-69,Â 702,Â  Â 11
-Â  Â  Â  Vejle,65-69,Â 631,Â  Â 14
-Â Fredericia,70-74,Â 509,Â  Â 11
-Â  Â  Horsens,70-74,Â 634,Â  Â 12
-Â  Â  Kolding,70-74,Â 535,Â  Â  9
-Â  Â  Â  Vejle,70-74,Â 539,Â  Â  8
-Â Fredericia,Â  75+,Â 605,Â  Â 10
-Â  Â  Horsens,Â  75+,Â 782,Â  Â  2
-Â  Â  Kolding,Â  75+,Â 659,Â  Â 12
-Â  Â  Â  Vejle,Â  75+,Â 619,Â  Â  7
-,,,
+Ê Ê Êcity Ê	age Ê	pop	cases
+ÊFredericia	40-54	3059	Ê Ê11
+Ê Ê Horsens	40-54	2879	Ê Ê13
+Ê Ê Kolding	40-54	3142	Ê Ê 4
+Ê Ê Ê Vejle	40-54	2520	Ê Ê 5
+ÊFredericia	55-59	Ê800	Ê Ê11
+Ê Ê Horsens	55-59	1083	Ê Ê 6
+Ê Ê Kolding	55-59	1050	Ê Ê 8
+Ê Ê Ê Vejle	55-59	Ê878	Ê Ê 7
+ÊFredericia	60-64	Ê710	Ê Ê11
+Ê Ê Horsens	60-64	Ê923	Ê Ê15
+Ê Ê Kolding	60-64	Ê895	Ê Ê 7
+Ê Ê Ê Vejle	60-64	Ê839	Ê Ê10
+ÊFredericia	65-69	Ê581	Ê Ê10
+Ê Ê Horsens	65-69	Ê834	Ê Ê10
+Ê Ê Kolding	65-69	Ê702	Ê Ê11
+Ê Ê Ê Vejle	65-69	Ê631	Ê Ê14
+ÊFredericia	70-74	Ê509	Ê Ê11
+Ê Ê Horsens	70-74	Ê634	Ê Ê12
+Ê Ê Kolding	70-74	Ê535	Ê Ê 9
+Ê Ê Ê Vejle	70-74	Ê539	Ê Ê 8
+ÊFredericia	Ê 75+	Ê605	Ê Ê10
+Ê Ê Horsens	Ê 75+	Ê782	Ê Ê 2
+Ê Ê Kolding	Ê 75+	Ê659	Ê Ê12
+Ê Ê Ê Vejle	Ê 75+	Ê619	Ê Ê 7
