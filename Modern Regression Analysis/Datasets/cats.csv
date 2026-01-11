@@ -1,0 +1,1436 @@
+X,animal_id,name,outcome_type,animal_type,breed,color,age_days
+1,A846341,,Adoption,Cat,Domestic Shorthair,Blue Tabby,55
+2,A772759,*Bella,Adoption,Cat,Domestic Medium Hair Mix,Blue,63
+3,A666893,Pristy,Transfer,Cat,Domestic Shorthair Mix,Black,2237
+4,A753626,*Mooney,Adoption,Cat,Domestic Shorthair Mix,Black,92
+5,A747591,,Transfer,Cat,Domestic Longhair Mix,Brown Tabby,369
+6,A703272,*Catelyn,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby/White,88
+7,A687966,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,129
+8,A714219,*Pixie,Adoption,Cat,Domestic Shorthair Mix,Torbie,80
+9,A668561,Elephant,Transfer,Cat,Domestic Shorthair Mix,Calico,747
+10,A801191,*Starburst,Adoption,Cat,Domestic Shorthair,Calico,82
+11,A777410,*Serendipity,Adoption,Cat,Domestic Shorthair Mix,Tortie,99
+12,A703118,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,23
+13,A889396,*Ramona,Transfer,Cat,Domestic Medium Hair,Tortie,54
+14,A736344,*Bosley,Adoption,Cat,Domestic Shorthair Mix,Black,79
+15,A730991,,Transfer,Cat,Domestic Shorthair Mix,Torbie,41
+16,A731660,*Jade,Adoption,Cat,Domestic Shorthair Mix,Blue/White,81
+17,A705413,,Euthanasia,Cat,Domestic Shorthair Mix,Black,1099
+18,A728200,Frosting,Return to Owner,Cat,Domestic Shorthair Mix,Brown Tabby,379
+19,A862295,Jelly,Transfer,Cat,Manx,Cream Tabby/White,731
+20,A783878,,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,190
+21,A703736,*Violet,Adoption,Cat,Domestic Shorthair Mix,Black,102
+22,A794538,Huey,Adoption,Cat,Domestic Shorthair,Blue Tabby,595
+23,A802389,,Transfer,Cat,Domestic Shorthair,Blue Tabby,32
+24,A708339,*Blanche,Transfer,Cat,Domestic Shorthair Mix,Black,68
+25,A706085,*Charlie,Adoption,Cat,Domestic Shorthair Mix,Blue,58
+26,A714572,*Tom,Adoption,Cat,Domestic Shorthair Mix,Black,69
+27,A759658,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,25
+28,A862723,125 Grams,Transfer,Cat,Domestic Shorthair,Brown Tabby,10
+29,A856121,*Iris,Adoption,Cat,Domestic Shorthair,Calico,83
+30,A717296,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,188
+31,A867433,Creamsicle,Adoption,Cat,Domestic Medium Hair Mix,Cream Tabby/White,1340
+32,A760194,,Transfer,Cat,American Shorthair Mix,Gray/Black,371
+33,A794961,,Transfer,Cat,Domestic Shorthair,Lilac Point,25
+34,A885176,,Transfer,Cat,Domestic Shorthair,Orange/White,38
+35,A859484,*Morgana,Adoption,Cat,Domestic Shorthair,Tortie,106
+36,A839146,,Transfer,Cat,Domestic Shorthair,Black,1
+37,A715688,*Luna,Adoption,Cat,Domestic Shorthair Mix,Black,73
+38,A890811,,Adoption,Cat,Domestic Shorthair,Cream Tabby,80
+39,A805978,,Transfer,Cat,Domestic Medium Hair Mix,Blue Tabby/White,59
+40,A818114,*Rosemary,Adoption,Cat,Domestic Shorthair,Blue Tabby,94
+41,A679871,Cindy,Adoption,Cat,Maine Coon Mix,Brown Tabby/White,1471
+42,A842983,A842983,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,70
+43,A680471,*Adorable,Adoption,Cat,Domestic Longhair Mix,Blue,70
+44,A840972,,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,88
+45,A762681,,Transfer,Cat,Domestic Shorthair Mix,Calico,371
+46,A823887,Buddy,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,411
+47,A735388,*Flint,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,237
+48,A764424,Tyrone,Transfer,Cat,Domestic Medium Hair,Black,1168
+49,A828853,Virgil,Return to Owner,Cat,Domestic Shorthair,Brown Tabby/White,115
+50,A676955,Raz,Adoption,Cat,Siamese Mix,Seal Point,2658
+51,A759730,*Sunshine,Transfer,Cat,Domestic Longhair Mix,Calico,3656
+52,A732730,,Transfer,Cat,Snowshoe Mix,White,368
+53,A703194,Missy,Adoption,Cat,Domestic Longhair Mix,White/Brown Tabby,85
+54,A689418,,Adoption,Cat,Domestic Shorthair Mix,Black/White,72
+55,A783850,,Transfer,Cat,Domestic Shorthair Mix,Orange,2201
+56,A876326,*Angie,Transfer,Cat,Persian,Silver Tabby,734
+57,A734105,,Transfer,Cat,Domestic Medium Hair,Brown Tabby,93
+58,A719640,,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,67
+59,A876841,Cardi,Adoption,Cat,Domestic Shorthair,Blue Tabby,203
+60,A855004,Booker T,Return to Owner,Cat,Domestic Shorthair,Orange Tabby,3500
+61,A886521,,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,141
+62,A748158,*Tom,Adoption,Cat,Domestic Medium Hair Mix,Black,74
+63,A709236,,Euthanasia,Cat,Domestic Shorthair Mix,Gray Tabby,366
+64,A796078,,Transfer,Cat,Domestic Shorthair,Blue Tabby,733
+65,A752341,*Dora,Adoption,Cat,Domestic Shorthair Mix,Black/White,61
+66,A680346,*Sam,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,40
+67,A742468,Jiji,Adoption,Cat,Domestic Shorthair Mix,Black,129
+68,A699030,Combo,Adoption,Cat,Manx Mix,Brown Tabby,5486
+69,A727736,*Hermione,Adoption,Cat,Domestic Shorthair Mix,Torbie,72
+70,A875048,Luna,Adoption,Cat,Domestic Shorthair,Brown Tabby,372
+71,A709365,*Jeffrey,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,82
+72,A819867,*Robin Hood,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,776
+73,A683516,*Drew,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,45
+74,A833858,,Return to Owner,Cat,Domestic Shorthair,Calico,96
+75,A880874,,Transfer,Cat,Domestic Medium Hair,Black,1098
+76,A708754,*Ob1,Transfer,Cat,Domestic Shorthair Mix,Blue,1099
+77,A687772,*Violet,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,627
+78,A678493,,Transfer,Cat,Siamese Mix,Tortie Point,23
+79,A796273,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,1097
+80,A843783,Mia,Adoption,Cat,Domestic Shorthair,Torbie,124
+81,A707258,Jayden,Adoption,Cat,Siamese Mix,Lynx Point/White,1913
+82,A715640,*Chrissy,Adoption,Cat,Domestic Shorthair Mix,Torbie,74
+83,A701811,,Transfer,Cat,Domestic Shorthair Mix,Gray Tabby,15
+84,A860580,*Wilbert,Adoption,Cat,Siamese,Blue Point,99
+85,A688484,Lalo,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,911
+86,A666551,Zoey,Adoption,Cat,Domestic Shorthair Mix,Torbie,123
+87,A725658,Peanut,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,1834
+88,A801725,Rocketman,Transfer,Cat,Domestic Shorthair,Black,921
+89,A758971,,Transfer,Cat,American Shorthair Mix,Black/White,128
+90,A734129,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,33
+91,A798351,*Tina,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,789
+92,A691443,*Julian,Adoption,Cat,Domestic Shorthair Mix,Black/White,69
+93,A576705,Blue,Adoption,Cat,Siamese Mix,Lynx Point,2046
+94,A681157,,Euthanasia,Cat,Domestic Shorthair Mix,Black,47
+95,A879896,Ruby,Adoption,Cat,Domestic Shorthair,Blue Tabby,99
+96,A698604,*Pigeon,Transfer,Cat,Domestic Medium Hair Mix,Blue,1852
+97,A877776,*Oleander,Adoption,Cat,Domestic Shorthair,Black,70
+98,A791561,*Sophia,Adoption,Cat,Maine Coon Mix,Blue,5170
+99,A797191,*Lazer,Adoption,Cat,Domestic Medium Hair,Blue Tabby/White,118
+100,A708080,,Transfer,Cat,Domestic Shorthair Mix,Black,731
+101,A656974,Enriqueta,Adoption,Cat,Domestic Longhair Mix,Black/White,2974
+102,A806683,314 Grams,Transfer,Cat,Domestic Shorthair,Tortie,23
+103,A888684,,Transfer,Cat,Domestic Shorthair,Blue Tabby,16
+104,A722488,*Butters,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,130
+105,A861192,A861192,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,93
+106,A775141,*Bridgette,Transfer,Cat,Domestic Shorthair Mix,Black/White,110
+107,A733181,,Euthanasia,Cat,Domestic Shorthair Mix,White/Blue,1462
+108,A856762,,Transfer,Cat,Domestic Shorthair,Orange Tabby,9
+109,A765167,Amber,Return to Owner,Cat,Domestic Medium Hair Mix,Calico,1098
+110,A826882,,Adoption,Cat,Maine Coon,Brown Tabby,736
+111,A689983,,Transfer,Cat,Domestic Shorthair Mix,Black/White,366
+112,A749600,Kitty,Adoption,Cat,Domestic Shorthair Mix,Blue,67
+113,A755809,,Transfer,Cat,Domestic Shorthair Mix,Black,15
+114,A779662,Orian,Return to Owner,Cat,Domestic Shorthair Mix,White/Black,753
+115,A754585,,Transfer,Cat,Domestic Medium Hair Mix,Brown Tabby/White,154
+116,A766538,,Transfer,Cat,Domestic Shorthair Mix,Tortie,1832
+117,A703596,*Casper,Adoption,Cat,Domestic Medium Hair Mix,Blue,1409
+118,A751104,,Adoption,Cat,Domestic Shorthair Mix,White/Brown Tabby,83
+119,A873286,,Transfer,Cat,Domestic Shorthair,Blue,310
+120,A733550,*Paul,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,70
+121,A821252,Wolfgang,Adoption,Cat,Domestic Shorthair,Black,109
+122,A687509,Duma,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,2572
+123,A684617,,Transfer,Cat,Domestic Shorthair Mix,Black,731
+124,A805429,Espeon,Adoption,Cat,Domestic Medium Hair,Blue,69
+125,A668231,*Petey,Transfer,Cat,Domestic Shorthair,Black Tabby,63
+126,A687692,,Transfer,Cat,Domestic Shorthair Mix,White,3
+127,A883021,*Irked,Adoption,Cat,Domestic Shorthair,Cream Tabby,121
+128,A664711,,Euthanasia,Cat,Himalayan Mix,Tortie Point,1827
+129,A798395,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,80
+130,A667015,Finn,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,192
+131,A845208,A845208,Adoption,Cat,Domestic Shorthair,Brown Tabby,71
+132,A840464,,Euthanasia,Cat,Domestic Shorthair,Black,369
+133,A804154,,Transfer,Cat,Domestic Shorthair,Lynx Point,19
+134,A778918,,Adoption,Cat,Domestic Shorthair Mix,White/Brown Tabby,73
+135,A750813,*Winnie,Adoption,Cat,Domestic Shorthair Mix,Blue/White,61
+136,A864049,,Adoption,Cat,Domestic Shorthair,Brown Tabby,130
+137,A765914,,Euthanasia,Cat,Domestic Shorthair Mix,Lynx Point,366
+138,A835651,,Transfer,Cat,Domestic Shorthair,Black,8
+139,A703160,*Petunia,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,74
+140,A696340,,Transfer,Cat,Domestic Shorthair Mix,Black,108
+141,A723551,*Tiago,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,81
+142,A838178,,Euthanasia,Cat,Domestic Shorthair,Black,78
+143,A794574,*Kitt,Adoption,Cat,Domestic Shorthair,Brown Tabby,86
+144,A701226,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,23
+145,A833927,,Adoption,Cat,Domestic Shorthair,Black/White,67
+146,A722683,Loki,Return to Owner,Cat,Domestic Longhair Mix,Brown Tabby,4199
+147,A794996,*Monty,Transfer,Cat,Domestic Shorthair,White/Black,24
+148,A718369,*Wasabi,Transfer,Cat,Domestic Shorthair Mix,Black/White,2946
+149,A780466,,Transfer,Cat,Domestic Shorthair Mix,Agouti/Cream,189
+150,A741115,Gabby,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,2970
+151,A704503,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,183
+152,A860096,*Bessie,Adoption,Cat,Domestic Longhair Mix,Brown Tabby/White,68
+153,A678953,Momo,Transfer,Cat,Domestic Shorthair Mix,Torbie,1217
+154,A608071,*Petey,Adoption,Cat,Domestic Shorthair Mix,Blue,1294
+155,A687179,,Adoption,Cat,Domestic Medium Hair Mix,Brown Tabby/White,84
+156,A765038,Rikka,Return to Owner,Cat,Domestic Shorthair Mix,Blue Tabby,246
+157,A821879,Jackson,Adoption,Cat,Domestic Longhair Mix,Black,1109
+158,A743281,*Cosette,Adoption,Cat,Domestic Shorthair Mix,Calico,241
+159,A798537,*Belle,Adoption,Cat,Domestic Medium Hair,Torbie/White,112
+160,A740504,,Euthanasia,Cat,Domestic Shorthair Mix,Torbie,1799
+161,A851986,Azula,Adoption,Cat,Domestic Medium Hair Mix,Black,130
+162,A775197,*Marianne,Adoption,Cat,Domestic Shorthair,Brown Tabby,84
+163,A888754,,Transfer,Cat,Domestic Shorthair Mix,Gray Tabby,737
+164,A862026,Cory,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,84
+165,A883019,*Aggrieved,Adoption,Cat,Domestic Shorthair,Cream Tabby,121
+166,A764312,*Flannel,Adoption,Cat,Domestic Longhair Mix,Brown Tabby/White,338
+167,A727817,*Hook,Adoption,Cat,Domestic Shorthair Mix,Black/White,75
+168,A833584,,Died,Cat,Siamese,Lynx Point,16
+169,A747940,*Axel,Adoption,Cat,Domestic Shorthair Mix,Black,145
+170,A727551,,Transfer,Cat,Domestic Shorthair Mix,Black,16
+171,A823874,*Orson,Adoption,Cat,Domestic Medium Hair Mix,Brown Tabby/White,775
+172,A725282,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,23
+173,A685373,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby/White,16
+174,A689980,*Betty,Adoption,Cat,Domestic Medium Hair Mix,Torbie/Blue Cream,81
+175,A712210,Juliet,Transfer,Cat,Domestic Shorthair Mix,Tortie,438
+176,A761788,Cafe,Adoption,Cat,Domestic Shorthair Mix,Calico,302
+177,A769585,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,23
+178,A875111,Eddie,Transfer,Cat,Domestic Shorthair,Gray Tabby/White,370
+179,A832229,Lil Milo,Transfer,Cat,Domestic Shorthair,Orange Tabby,749
+180,A865521,*Sally,Adoption,Cat,Domestic Shorthair,Tortie,126
+181,A803847,,Transfer,Cat,Domestic Shorthair,Tortie,16
+182,A889782,,Transfer,Cat,Domestic Shorthair,Black/Black,49
+183,A781643,,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,93
+184,A665284,Kurt,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,81
+185,A851511,*Raphael,Adoption,Cat,Domestic Shorthair,Black,67
+186,A889904,,Adoption,Cat,Domestic Shorthair,Black/White,75
+187,A770194,Chiquita,Adoption,Cat,Domestic Shorthair Mix,Calico,736
+188,A826926,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,744
+189,A800069,,Transfer,Cat,Domestic Shorthair,Orange Tabby,50
+190,A788489,Honeybun,Transfer,Cat,Domestic Shorthair Mix,Torbie,1105
+191,A780821,Felicity,Return to Owner,Cat,Domestic Shorthair Mix,Orange Tabby,164
+192,A778649,Olivia,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,2932
+193,A760371,,Transfer,Cat,Domestic Shorthair Mix,Black,70
+194,A696915,Unique,Transfer,Cat,Domestic Shorthair Mix,White/Black,368
+195,A832729,,Transfer,Cat,Domestic Shorthair,Black/White,4
+196,A787270,*Monty,Transfer,Cat,Domestic Shorthair Mix,Black Tabby/White,239
+197,A835116,*Catarina,Adoption,Cat,Domestic Shorthair,Gray Tabby/White,741
+198,A863069,349 Grams,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,24
+199,A793540,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,2
+200,A678388,,Transfer,Cat,Domestic Shorthair Mix,Tortie,19
+201,A784748,,Transfer,Cat,Domestic Shorthair Mix,White/Blue Tabby,191
+202,A724744,,Euthanasia,Cat,Domestic Shorthair Mix,Orange/White,2194
+203,A714223,*Chekov,Adoption,Cat,Domestic Shorthair Mix,Black/White,81
+204,A758165,Banjo Joey,Adoption,Cat,American Shorthair Mix,White/Blue,368
+205,A815255,,Euthanasia,Cat,Domestic Shorthair,Orange Tabby,732
+206,A687765,,Transfer,Cat,Domestic Shorthair Mix,Black/White,8
+207,A759386,,Transfer,Cat,Domestic Shorthair Mix,Black/White,72
+208,A795171,,Transfer,Cat,Domestic Shorthair,Brown Tabby,31
+209,A658131,*Katniss,Adoption,Cat,Siamese Mix,Lynx Point,210
+210,A758022,,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,67
+211,A687841,Sunset,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,3036
+212,A760368,,Euthanasia,Cat,Domestic Shorthair Mix,Torbie,1097
+213,A724784,,Transfer,Cat,Domestic Shorthair Mix,White/Black Tabby,17
+214,A776707,,Adoption,Cat,Himalayan Mix,Lynx Point,2194
+215,A740194,Deedee,Transfer,Cat,Domestic Medium Hair,Black/White,782
+216,A827435,Midnight,Return to Owner,Cat,Domestic Shorthair Mix,Black,5482
+217,A891031,Pookie,Adoption,Cat,Domestic Shorthair,Black,755
+218,A878506,,Transfer,Cat,Domestic Medium Hair,Black/White,389
+219,A731510,*Quinn,Transfer,Cat,Domestic Shorthair Mix,Black Smoke/White,105
+220,A673834,,Transfer,Cat,Domestic Shorthair Mix,Black/White,883
+221,A687052,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,123
+222,A823167,,Transfer,Cat,Domestic Shorthair,Black,24
+223,A837855,*Chickweed,Transfer,Cat,Domestic Shorthair,White/Black,113
+224,A843772,A843772,Adoption,Cat,Domestic Shorthair Mix,Tortie,64
+225,A891538,Lela,Adoption,Cat,Domestic Shorthair,Tortie,781
+226,A679440,,Transfer,Cat,Domestic Shorthair Mix,Black/White,5
+227,A727085,,Transfer,Cat,Domestic Shorthair Mix,Blue,371
+228,A756286,Dany,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby/White,66
+229,A702733,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,731
+230,A792108,*Maple,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,107
+231,A662278,*Honeybear,Adoption,Cat,Domestic Shorthair Mix,Black,96
+232,A841290,A841290,Adoption,Cat,Domestic Shorthair,Blue/White,85
+233,A760375,*Coraline,Transfer,Cat,Domestic Shorthair Mix,Black/White,30
+234,A824447,*Geri,Adoption,Cat,Domestic Shorthair Mix,Tortie,84
+235,A863791,Luna,Adoption,Cat,Domestic Shorthair,Tortie,99
+236,A870016,*Marcelene,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,84
+237,A670544,*Mia,Adoption,Cat,Domestic Shorthair Mix,Torbie,439
+238,A691651,*Clementine,Adoption,Cat,Domestic Shorthair Mix,Calico,76
+239,A823444,Showers,Adoption,Cat,Domestic Shorthair Mix,Black,944
+240,A735667,*Mystery,Transfer,Cat,Domestic Shorthair Mix,Black,135
+241,A710332,Cleo,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,76
+242,A750919,*Bubbles,Transfer,Cat,Domestic Shorthair Mix,Calico,69
+243,A839437,*Nila,Adoption,Cat,Domestic Shorthair,Blue Tabby,105
+244,A800869,*Sage,Adoption,Cat,Domestic Shorthair,Gray Tabby,68
+245,A872233,*Taylor Swift,Adoption,Cat,Domestic Shorthair,Orange Tabby,395
+246,A719489,,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,70
+247,A784752,,Transfer,Cat,Domestic Shorthair Mix,Black,372
+248,A882885,A882885,Euthanasia,Cat,Domestic Shorthair,Orange Tabby/White,732
+249,A771508,*Ginger,Adoption,Cat,Domestic Medium Hair Mix,Orange Tabby,74
+250,A794915,*Basil,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,24
+251,A780527,,Adoption,Cat,Domestic Shorthair Mix,Tortie,184
+252,A863020,Heaton,Adoption,Cat,Domestic Longhair Mix,Brown Tabby,67
+253,A675465,,Transfer,Cat,Domestic Shorthair Mix,White,2
+254,A738753,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,5
+255,A830493,288G Red,Transfer,Cat,Domestic Shorthair,Brown Tabby,16
+256,A686739,,Euthanasia,Cat,Domestic Shorthair Mix,Blue/White,47
+257,A873685,*Kali,Transfer,Cat,Domestic Shorthair,Calico,4391
+258,A794699,*Astro,Adoption,Cat,Domestic Shorthair,Brown Tabby,173
+259,A844214,,Adoption,Cat,Domestic Shorthair,Orange Tabby/White,373
+260,A663610,*Jr,Adoption,Cat,Domestic Shorthair Mix,Black/White,92
+261,A771468,*Kiki,Adoption,Cat,Domestic Shorthair Mix,Torbie,415
+262,A841814,230 Grams,Transfer,Cat,Domestic Shorthair Mix,Blue,16
+263,A784557,*Hot Sauce,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,375
+264,A813279,Buster,Adoption,Cat,Domestic Shorthair Mix,White/Brown Tabby,102
+265,A888088,,Adoption,Cat,Domestic Shorthair,Black/White,89
+266,A739909,,Transfer,Cat,Domestic Medium Hair Mix,Black,367
+267,A797180,Leo,Adoption,Cat,Domestic Medium Hair Mix,Brown Tabby,386
+268,A885741,885741,Transfer,Cat,Siamese/Domestic Shorthair,Flame Point/White,123
+269,A777633,*Curie,Adoption,Cat,Domestic Shorthair Mix,Blue,130
+270,A881081,,Transfer,Cat,Domestic Shorthair,Brown Tabby,736
+271,A859411,*Dustin,Adoption,Cat,Domestic Shorthair,Blue/White,104
+272,A681524,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,369
+273,A712107,,Transfer,Cat,Domestic Shorthair Mix,Tortie,23
+274,A614482,Miss Oliver,Return to Owner,Cat,Domestic Medium Hair Mix,Brown Tabby/White,4347
+275,A875700,,Transfer,Cat,Domestic Shorthair,Calico,902
+276,A735095,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,23
+277,A750999,,Transfer,Cat,Domestic Shorthair Mix,Blue,8
+278,A728984,,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,81
+279,A667789,Melly,Return to Owner,Cat,Domestic Shorthair Mix,Tortie,367
+280,A826266,,Transfer,Cat,Domestic Shorthair,Black/White,162
+281,A680106,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,365
+282,A870613,*Carrot,Adoption,Cat,Domestic Shorthair,Orange Tabby,57
+283,A854855,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,13
+284,A704794,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,366
+285,A691623,,Transfer,Cat,Domestic Shorthair Mix,Tortie,731
+286,A714499,Furgus Mckit,Return to Owner,Cat,Domestic Longhair Mix,Orange,367
+287,A505412,Sneakers,Adoption,Cat,Domestic Shorthair Mix,White/Black,3120
+288,A784942,*Trudy,Adoption,Cat,Domestic Shorthair Mix,Torbie,1587
+289,A746526,,Transfer,Cat,Domestic Shorthair Mix,Blue,8
+290,A828222,*Cleopatra,Transfer,Cat,Domestic Shorthair Mix,Tortie,1463
+291,A679534,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,16
+292,A664601,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,3289
+293,A855236,A855236,Transfer,Cat,Domestic Shorthair Mix,Calico,738
+294,A885315,*Bonnie,Adoption,Cat,Domestic Shorthair,Calico,103
+295,A886631,*Franklin,Adoption,Cat,Siamese,Lynx Point,77
+296,A835326,A835326,Adoption,Cat,Domestic Shorthair,Brown Tabby,78
+297,A819192,Root,Adoption,Cat,Domestic Shorthair,Cream Tabby,117
+298,A777274,*Eva,Adoption,Cat,Domestic Shorthair Mix,Black/White,468
+299,A762771,,Adoption,Cat,Domestic Shorthair Mix,Blue/White,66
+300,A795340,,Adoption,Cat,Domestic Medium Hair,Torbie,1102
+301,A806146,Babs,Return to Owner,Cat,Domestic Medium Hair,Calico,732
+302,A856836,,Transfer,Cat,Domestic Shorthair,Brown Tabby,22
+303,A792426,,Died,Cat,Domestic Shorthair Mix,Tortie,366
+304,A703771,,Euthanasia,Cat,Domestic Shorthair Mix,Brown Tabby,50
+305,A780082,*Woof,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,67
+306,A882693,Mitzi,Adoption,Cat,Domestic Shorthair,Calico,92
+307,A830869,*147 Grams,Transfer,Cat,Domestic Shorthair,Blue,7
+308,A731320,*Bobo,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,2729
+309,A757618,,Transfer,Cat,Domestic Shorthair Mix,Tortie,15
+310,A765427,Bailey,Return to Owner,Cat,American Shorthair Mix,White,6586
+311,A803611,,Adoption,Cat,Domestic Shorthair,Brown Tabby,75
+312,A793141,*Harriet,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,466
+313,A796483,*Sherman,Adoption,Cat,Domestic Medium Hair,Cream Tabby,82
+314,A680251,*Puffer Cat,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,145
+315,A745538,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,366
+316,A677890,,Euthanasia,Cat,Domestic Shorthair Mix,Brown Tabby/White,731
+317,A733939,*Luke,Adoption,Cat,Domestic Shorthair Mix,Black,69
+318,A806267,,Transfer,Cat,Domestic Shorthair,Orange/White,3652
+319,A855172,*Mellow Yellow,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,138
+320,A727124,*Avalanche,Adoption,Cat,Domestic Shorthair Mix,White,83
+321,A891449,Peaches,Adoption,Cat,Domestic Shorthair,Calico,78
+322,A673179,Izzy,Adoption,Cat,Domestic Longhair Mix,Cream Tabby,1832
+323,A756140,Rachel,Adoption,Cat,Domestic Shorthair Mix,Black,84
+324,A687058,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,154
+325,A809701,Jeffrey,Return to Owner,Cat,Domestic Shorthair,White/Black,735
+326,A834789,*Ilana,Adoption,Cat,Domestic Shorthair,Calico,63
+327,A730202,,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby/White,88
+328,A885143,Greg,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,1098
+329,A688763,,Transfer,Cat,Domestic Shorthair Mix,Torbie,11
+330,A730653,Curio,Adoption,Cat,Domestic Shorthair Mix,Blue/White,1121
+331,A736582,Bang,Transfer,Cat,Domestic Longhair Mix,Orange Tabby/White,3301
+332,A688757,*Ivan,Adoption,Cat,Domestic Shorthair Mix,Blue,190
+333,A709493,*Gus,Transfer,Cat,Domestic Shorthair Mix,White/Black,4486
+334,A875543,,Transfer,Cat,Domestic Shorthair,Black/White,205
+335,A821158,*Taffy,Transfer,Cat,Domestic Shorthair,White/Cream,751
+336,A781443,Nina,Return to Owner,Cat,Domestic Longhair Mix,Blue,731
+337,A828892,*Chaps,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,496
+338,A847079,,Transfer,Cat,Domestic Shorthair,Blue,39
+339,A889165,*Halsin,Adoption,Cat,Domestic Shorthair,Brown Tabby,124
+340,A763912,Kitty,Adoption,Cat,Domestic Shorthair Mix,White/Brown Brindle,4046
+341,A731262,,Transfer,Cat,Domestic Shorthair Mix,Torbie/White,35
+342,A839337,Tina Turner,Adoption,Cat,Domestic Shorthair Mix,Tortie,124
+343,A771891,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,74
+344,A808701,Truffles,Adoption,Cat,Domestic Longhair,Tortie,794
+345,A845496,*Pomona,Adoption,Cat,Domestic Shorthair,Orange Tabby,88
+346,A386276,Tiko,Adoption,Cat,Domestic Shorthair Mix,Flame Point,3959
+347,A886846,*Boots,Adoption,Cat,Domestic Shorthair,Brown Tabby,168
+348,A725998,,Transfer,Cat,Domestic Shorthair Mix,Calico,17
+349,A723994,Gabriel,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby/White,2935
+350,A681532,,Transfer,Cat,Domestic Longhair Mix,Brown Tabby,4
+351,A801030,,Transfer,Cat,Domestic Shorthair Mix,White/Orange Tabby,758
+352,A692360,,Euthanasia,Cat,Siamese Mix,Chocolate Point,731
+353,A860085,Madison,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,69
+354,A750150,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,1
+355,A856908,*Peanut Butter,Adoption,Cat,Domestic Shorthair Mix,White/Blue,101
+356,A726089,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,23
+357,A871365,*Georgina,Adoption,Cat,Domestic Shorthair,Orange Tabby,739
+358,A821070,,Transfer,Cat,Domestic Longhair Mix,Orange Tabby,77
+359,A844859,*Roman,Transfer,Cat,Domestic Shorthair,Blue Tabby,744
+360,A796247,,Transfer,Cat,Domestic Shorthair,Gray Tabby,64
+361,A820671,,Euthanasia,Cat,Domestic Shorthair,Black,65
+362,A806269,Vincent,Adoption,Cat,Domestic Shorthair,Black/Black,71
+363,A740281,,Transfer,Cat,Domestic Shorthair Mix,Tortie,1462
+364,A838562,*Big Bird,Adoption,Cat,Domestic Shorthair,Black,85
+365,A772760,*Beethoven,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,25
+366,A631849,Calliope,Adoption,Cat,Domestic Shorthair Mix,Black/White,3142
+367,A885779,Valentino,Adoption,Cat,Domestic Shorthair,Orange Tabby,93
+368,A756363,Cutie Pie,Adoption,Cat,Domestic Longhair Mix,Orange Tabby,3000
+369,A687419,,Transfer,Cat,Domestic Shorthair Mix,Black,3
+370,A747707,*Amber,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,69
+371,A778285,,Euthanasia,Cat,Domestic Shorthair Mix,Brown Tabby,47
+372,A703298,,Transfer,Cat,Domestic Shorthair Mix,Calico/Tricolor,23
+373,A747741,*Squiggy,Adoption,Cat,Domestic Shorthair Mix,Black,131
+374,A775573,,Transfer,Cat,Domestic Shorthair Mix,Calico,6
+375,A740316,Alice,Return to Owner,Cat,Domestic Shorthair Mix,Blue Tabby,1828
+376,A854857,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,13
+377,A877872,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,2
+378,A807984,*Babbles,Adoption,Cat,Domestic Shorthair,Brown Tabby,124
+379,A839109,A839109,Euthanasia,Cat,Domestic Shorthair,Black,1468
+380,A881625,,Disposal,Cat,Domestic Medium Hair,Calico Point,50
+381,A669471,,Transfer,Cat,Himalayan Mix,Black/Black Smoke,1105
+382,A688120,,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,67
+383,A680744,,Transfer,Cat,Domestic Shorthair Mix,Calico,243
+384,A748151,Razz,Transfer,Cat,Domestic Shorthair Mix,Black/White,5874
+385,A845419,Nox,Adoption,Cat,Domestic Shorthair,Black/White,175
+386,A844405,Bluebell,Adoption,Cat,Domestic Shorthair,Cream Tabby,3291
+387,A677257,Athena,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,390
+388,A772561,Bootsy,Transfer,Cat,Domestic Shorthair Mix,Black/White,2478
+389,A729214,,Adoption,Cat,Domestic Shorthair Mix,Black/White,76
+390,A884650,*Minny Le Mew,Adoption,Cat,Domestic Shorthair,Torbie,86
+391,A844707,*Symone,Adoption,Cat,Domestic Shorthair,Tortie,439
+392,A844665,*Clarice,Adoption,Cat,Domestic Shorthair Mix,Tortie,740
+393,A834354,,Transfer,Cat,Domestic Shorthair,Orange Tabby,17
+394,A797863,Andy,Return to Owner,Cat,Domestic Shorthair,Black,731
+395,A863736,,Transfer,Cat,Domestic Shorthair,Torbie/White,37
+396,A827600,*Sloane,Adoption,Cat,Domestic Shorthair,Brown Tabby,758
+397,A795273,,Adoption,Cat,Domestic Shorthair,Blue Tabby/White,65
+398,A731958,Coco,Adoption,Cat,Domestic Shorthair Mix,Tortie,116
+399,A870513,,Adoption,Cat,Domestic Shorthair,Black/White,73
+400,A731756,,Transfer,Cat,Domestic Shorthair Mix,Black/Blue,123
+401,A778177,,Transfer,Cat,Domestic Shorthair Mix,Black/White,3
+402,A702585,,Transfer,Cat,Domestic Shorthair Mix,Black,121
+403,A689990,,Transfer,Cat,Domestic Shorthair Mix,Calico,23
+404,A709815,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,57
+405,A703600,*Tanner,Adoption,Cat,Domestic Medium Hair Mix,Brown Tabby,61
+406,A798538,*Sebastian,Adoption,Cat,Domestic Medium Hair,Black/White,99
+407,A876800,Comet,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,2193
+408,A709163,,Transfer,Cat,Domestic Shorthair,Black,25
+409,A845328,*Frances,Adoption,Cat,Domestic Shorthair,Torbie/White,337
+410,A792046,*Inky,Transfer,Cat,Domestic Medium Hair Mix,Black,3664
+411,A734548,*Puddin Pop,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,90
+412,A854213,Pierce,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,159
+413,A701766,,Transfer,Cat,Domestic Shorthair Mix,Calico,366
+414,A664340,Butter,Adoption,Cat,Domestic Shorthair Mix,Black/White,129
+415,A749708,Sue,Adoption,Cat,Domestic Shorthair Mix,Tortie,60
+416,A710680,Tenzing,Transfer,Cat,Domestic Shorthair Mix,Blue,737
+417,A662490,*Fudge,Transfer,Cat,Domestic Shorthair Mix,Chocolate/Black Smoke,169
+418,A728927,Lana,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,289
+419,A779141,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,130
+420,A838473,Spice,Adoption,Cat,Domestic Shorthair,Calico,164
+421,A659618,*Maria,Adoption,Cat,Domestic Medium Hair Mix,Calico,86
+422,A783147,The Dude,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,1973
+423,A736226,Lola,Adoption,Cat,Domestic Shorthair Mix,Calico/White,2197
+424,A808098,,Transfer,Cat,Domestic Shorthair,Calico,369
+425,A822759,Santonia,Adoption,Cat,Domestic Shorthair,Black,389
+426,A700942,,Transfer,Cat,Domestic Shorthair Mix,White/Black,16
+427,A861569,Sushi,Adoption,Cat,Domestic Shorthair,Brown Tabby,526
+428,A676386,*Lilly,Adoption,Cat,Domestic Medium Hair Mix,Blue,233
+429,A856738,*Vonna,Adoption,Cat,Domestic Longhair,Tortie,92
+430,A706589,*Astro,Transfer,Cat,Domestic Medium Hair Mix,Orange Tabby/White,69
+431,A678673,*Jamie,Transfer,Cat,Domestic Shorthair Mix,Black,42
+432,A787885,Jep,Return to Owner,Cat,Domestic Shorthair Mix,Gray/White,731
+433,A824887,,Adoption,Cat,Domestic Shorthair,White/Blue,72
+434,A691537,*Annie,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,77
+435,A574026,*Louie,Adoption,Cat,Domestic Shorthair Mix,White/Orange Tabby,2487
+436,A844635,A844635,Transfer,Cat,Domestic Shorthair Mix,Black,17
+437,A688925,,Transfer,Cat,Domestic Shorthair Mix,Calico,32
+438,A712668,Ninja,Return to Owner,Cat,Domestic Shorthair Mix,Black/White,1832
+439,A881994,,Transfer,Cat,Domestic Shorthair,White/Gray,31
+440,A727681,,Transfer,Cat,Domestic Shorthair Mix,Black,48
+441,A708568,*Jim,Transfer,Cat,Domestic Shorthair Mix,Black/White,35
+442,A810912,*Mitzi,Adoption,Cat,Domestic Medium Hair,Black,76
+443,A797002,*Hermione,Adoption,Cat,Domestic Shorthair Mix,Torbie/White,94
+444,A875282,Iris,Adoption,Cat,Domestic Shorthair,Blue/White,158
+445,A703081,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,23
+446,A847739,*Ingvar,Adoption,Cat,Domestic Shorthair Mix,Black,83
+447,A727735,*Herhlinda,Adoption,Cat,Domestic Shorthair Mix,Black Tabby,78
+448,A783681,,Adoption,Cat,Domestic Shorthair Mix,Black,100
+449,A682740,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,5
+450,A721864,,Transfer,Cat,Domestic Shorthair Mix,Tortie,249
+451,A785645,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,215
+452,A848127,A848127,Adoption,Cat,Domestic Medium Hair,Orange Tabby/White,374
+453,A732045,*Phelps,Euthanasia,Cat,Domestic Shorthair Mix,Black,32
+454,A659262,*Bubbles,Adoption,Cat,Domestic Shorthair Mix,Black/White,2643
+455,A702330,,Transfer,Cat,Domestic Shorthair Mix,White,2
+456,A713602,Minerva,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,85
+457,A806067,*Winifred,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,195
+458,A860691,Tita,Return to Owner,Cat,Domestic Shorthair Mix,Brown Tabby,548
+459,A749472,*Shinobi,Transfer,Cat,Domestic Shorthair Mix,Black,844
+460,A682948,*Rain,Adoption,Cat,Domestic Medium Hair Mix,Black/White,148
+461,A771612,Winston,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,74
+462,A711683,*Squeaky,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,76
+463,A687832,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,23
+464,A823712,,Transfer,Cat,Domestic Shorthair,Blue Tabby,23
+465,A716807,Seda,Adoption,Cat,Domestic Medium Hair Mix,Calico,3028
+466,A741625,,Transfer,Cat,Domestic Shorthair Mix,Calico,185
+467,A843114,A843114,Transfer,Cat,Domestic Shorthair,Torbie,755
+468,A694497,Kitty Kitty,Return to Owner,Cat,Domestic Shorthair Mix,Torbie,255
+469,A713177,Brady,Return to Owner,Cat,Domestic Shorthair Mix,Black,4394
+470,A758046,*Bonnie,Adoption,Cat,Domestic Shorthair Mix,Black,86
+471,A732232,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,55
+472,A686862,,Euthanasia,Cat,Domestic Shorthair Mix,Black/White,153
+473,A759346,*Boca,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,104
+474,A815277,*Ash,Adoption,Cat,Domestic Shorthair Mix,White,109
+475,A778353,,Adoption,Cat,Domestic Medium Hair Mix,Black,67
+476,A857492,*Fritz,Adoption,Cat,Domestic Shorthair,Cream Tabby,80
+477,A845248,*Fernanda,Adoption,Cat,Domestic Medium Hair,Tortie,85
+478,A737670,Ladybug,Adoption,Cat,Domestic Shorthair Mix,Black,190
+479,A802410,Jenson,Adoption,Cat,Domestic Shorthair,Black,190
+480,A777050,Jasmin,Adoption,Cat,Domestic Shorthair Mix,Silver Tabby,72
+481,A761925,*Chalula,Adoption,Cat,Domestic Medium Hair Mix,Black,77
+482,A783600,,Transfer,Cat,Domestic Shorthair Mix,Tortie,16
+483,A680371,Will,Transfer,Cat,Domestic Shorthair Mix,Black/White,60
+484,A698924,Kit Cat,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,384
+485,A694682,Dixie,Adoption,Cat,Domestic Shorthair Mix,White/Blue,70
+486,A695414,,Transfer,Cat,Domestic Shorthair Mix,Tortie,1097
+487,A800430,Joey,Adoption,Cat,Domestic Medium Hair,Black,2777
+488,A834009,,Adoption,Cat,Domestic Shorthair,White/Orange,370
+489,A794530,Earl Grey,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,72
+490,A716000,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,1100
+491,A790762,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,370
+492,A774970,,Transfer,Cat,Domestic Shorthair Mix,Blue,5
+493,A732145,,Transfer,Cat,Domestic Shorthair Mix,Black/White,367
+494,A680766,Isla,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,133
+495,A803061,,Transfer,Cat,Domestic Shorthair,Gray Tabby,126
+496,A798932,,Adoption,Cat,Domestic Shorthair,Black/White,97
+497,A712861,*Ajax,Transfer,Cat,Domestic Shorthair Mix,Black/White,147
+498,A729942,Nefertiti,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,1117
+499,A738671,Kylie,Return to Owner,Cat,Domestic Shorthair Mix,Tortie,227
+500,A736035,*Leonito,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,76
+501,A887284,227 Grams,Transfer,Cat,Domestic Shorthair,Black/White,22
+502,A811209,*Pocahontas,Adoption,Cat,Domestic Shorthair,Brown Tabby,744
+503,A704289,*Dora,Adoption,Cat,Domestic Shorthair Mix,Black/White,125
+504,A799445,,Adoption,Cat,Domestic Shorthair,Black,104
+505,A853991,,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,-104
+506,A712126,Chris,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,94
+507,A861953,Oreo,Adoption,Cat,Domestic Shorthair,Brown Tabby,378
+508,A680836,*Periwinkle,Adoption,Cat,Siamese Mix,Lynx Point,255
+509,A756091,,Adoption,Cat,American Shorthair Mix,Black/White,69
+510,A829832,Sky,Return to Owner,Cat,Domestic Shorthair,Blue Tabby,1097
+511,A863061,*Berry,Adoption,Cat,Domestic Medium Hair,Brown Tabby/White,94
+512,A844909,,Transfer,Cat,Domestic Shorthair,Orange Tabby,31
+513,A890741,Yellow Mark,Transfer,Cat,Domestic Shorthair,Brown Tabby,16
+514,A805434,,Transfer,Cat,Domestic Shorthair,Brown Tabby,188
+515,A773683,*Gloria,Adoption,Cat,Domestic Shorthair Mix,White/Black,153
+516,A829850,,Transfer,Cat,Domestic Shorthair,Black/Black,16
+517,A785372,*Bert,Adoption,Cat,Domestic Shorthair Mix,Black/White,209
+518,A780271,*Cora,Adoption,Cat,Domestic Shorthair Mix,Tortie,438
+519,A777634,,Transfer,Cat,Domestic Shorthair Mix,Blue,90
+520,A863333,,Adoption,Cat,Domestic Shorthair,Brown Tabby,107
+521,A795592,,Transfer,Cat,Domestic Shorthair,Brown Tabby,37
+522,A725029,*Jewel,Adoption,Cat,Domestic Shorthair Mix,Torbie,83
+523,A726502,Nelly,Adoption,Cat,Domestic Medium Hair Mix,Orange Tabby,60
+524,A727588,,Transfer,Cat,Domestic Shorthair Mix,White/Orange,20
+525,A689921,*Thomas,Transfer,Cat,Domestic Medium Hair Mix,Black/White,1479
+526,A792646,,Transfer,Cat,Domestic Shorthair Mix,Black/White,374
+527,A735938,,Adoption,Cat,Domestic Medium Hair Mix,Brown Tabby/White,73
+528,A795512,,Adoption,Cat,Domestic Shorthair,Brown Tabby,539
+529,A701980,*Ettie,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,485
+530,A728671,*Jerry,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,197
+531,A666787,*Zenia,Adoption,Cat,Domestic Shorthair Mix,Blue,75
+532,A756852,,Died,Cat,Domestic Shorthair Mix,Gray Tabby/White,2
+533,A844879,*Zion,Adoption,Cat,Domestic Shorthair,Tortie/White,85
+534,A825246,,Adoption,Cat,Domestic Shorthair,Gray Tabby/White,95
+535,A800106,,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,96
+536,A707061,,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,31
+537,A801041,*Polly,Transfer,Cat,Domestic Shorthair,Black,35
+538,A785351,Waffles,Adoption,Cat,Domestic Shorthair Mix,White/Brown Tabby,266
+539,A752098,,Adoption,Cat,Domestic Medium Hair Mix,Black/White,60
+540,A691506,*Butternut,Transfer,Cat,Domestic Shorthair Mix,Black/White,56
+541,A874493,,Adoption,Cat,Domestic Shorthair,Black/White,189
+542,A690936,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,23
+543,A756307,Nina,Transfer,Cat,Domestic Shorthair Mix,Torbie,68
+544,A684712,Pierre,Adoption,Cat,Domestic Medium Hair Mix,Black/White,74
+545,A681347,Khaleesi,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,140
+546,A762435,,Adoption,Cat,Domestic Medium Hair Mix,Orange Tabby,64
+547,A822467,,Transfer,Cat,Domestic Shorthair,Brown Tabby,732
+548,A820391,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,8
+549,A774191,Sparrow,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,100
+550,A860738,*Pulparindo,Adoption,Cat,Domestic Shorthair,Black/White,104
+551,A674317,Carrott,Return to Owner,Cat,Himalayan Mix,Seal Point,4020
+552,A889642,Osa,Adoption,Cat,Snowshoe,Tortie Point/White,66
+553,A687734,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,23
+554,A672156,Blue,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,107
+555,A710624,,Transfer,Cat,Domestic Shorthair Mix,Calico,4
+556,A853777,225 Grams,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,16
+557,A844115,A844115,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,16
+558,A795576,*Paprika,Adoption,Cat,Domestic Shorthair,Brown Tabby,73
+559,A890748,*Travis,Adoption,Cat,Domestic Shorthair,Brown Tabby,71
+560,A772360,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,8
+561,A697613,,Euthanasia,Cat,Domestic Longhair Mix,Tortie,2925
+562,A822321,,Transfer,Cat,Domestic Medium Hair,White/Blue Tabby,4
+563,A861418,,Transfer,Cat,Domestic Shorthair,Orange Tabby,32
+564,A727967,,Transfer,Cat,Domestic Shorthair Mix,Black,4
+565,A886609,*Brittle,Adoption,Cat,Domestic Shorthair,White/Orange,75
+566,A684336,,Euthanasia,Cat,Domestic Shorthair Mix,Black/White,61
+567,A703920,Susuwatari,Adoption,Cat,Domestic Shorthair Mix,Tortie,62
+568,A669885,,Adoption,Cat,Domestic Shorthair Mix,Black,126
+569,A673509,Junior,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,571
+570,A717021,,Died,Cat,Domestic Shorthair Mix,Brown Tabby/White,3653
+571,A821606,*Miss Meow,Adoption,Cat,Domestic Shorthair,Black/White,100
+572,A775838,Lilac,Return to Owner,Cat,Domestic Medium Hair Mix,Black/White,735
+573,A702972,*Clyde,Adoption,Cat,Domestic Shorthair Mix,Black/White,132
+574,A760703,,Adoption,Cat,Siamese Mix,Lilac Point,127
+575,A834403,*Mufasa,Adoption,Cat,Domestic Shorthair,Orange Tabby,62
+576,A797542,Mei Mei,Adoption,Cat,Domestic Shorthair,Tortie,2906
+577,A854800,216 Grams,Transfer,Cat,Domestic Shorthair,White,9
+578,A865463,,Transfer,Cat,Domestic Shorthair,Black,127
+579,A774317,,Transfer,Cat,Domestic Shorthair Mix,Black,49
+580,A854892,Rusty,Return to Owner,Cat,Domestic Shorthair,Brown Tabby,1249
+581,A838591,Hopey,Transfer,Cat,Domestic Shorthair,Black,734
+582,A787496,Ollie,Transfer,Cat,Domestic Shorthair Mix,White/Black,3669
+583,A669721,*Peach,Adoption,Cat,Domestic Shorthair Mix,Calico,308
+584,A686195,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,16
+585,A745951,Cheetah,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,2353
+586,A755630,Taco Moon,Return to Owner,Cat,Sphynx,White,733
+587,A809095,,Transfer,Cat,Domestic Shorthair,Orange Tabby,2199
+588,A885375,*Jane,Adoption,Cat,Domestic Shorthair,Blue Tabby,64
+589,A795086,,Transfer,Cat,Domestic Shorthair,Tortie,35
+590,A756332,*Mademoisele,Transfer,Cat,Domestic Medium Hair Mix,Calico,54
+591,A694206,,Adoption,Cat,Domestic Shorthair Mix,Blue,63
+592,A805489,Curry,Adoption,Cat,Domestic Shorthair,Brown Tabby,533
+593,A708144,*Sawyer,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,84
+594,A873395,,Transfer,Cat,Domestic Shorthair,Gray,1
+595,A792111,*Hazel,Adoption,Cat,Domestic Shorthair Mix,Torbie,107
+596,A706029,,Transfer,Cat,Domestic Longhair Mix,Black,1096
+597,A729763,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,11
+598,A711773,,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby,23
+599,A796631,*Jack,Adoption,Cat,Domestic Shorthair,Orange Tabby,63
+600,A706267,,Transfer,Cat,Domestic Shorthair Mix,Black,731
+601,A811980,Seph,Return to Owner,Cat,Domestic Medium Hair Mix,Calico,3653
+602,A681540,Princess,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,73
+603,A881956,881956,Transfer,Cat,Domestic Shorthair,Orange Tiger,31
+604,A777213,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,155
+605,A731977,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,8
+606,A756220,*Cognac,Transfer,Cat,Domestic Medium Hair Mix,Black/White,40
+607,A773906,,Adoption,Cat,Domestic Medium Hair Mix,Black/White,96
+608,A779901,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,371
+609,A797276,,Adoption,Cat,Domestic Shorthair,Black/White,111
+610,A687866,Gray,Euthanasia,Cat,Domestic Shorthair Mix,Blue Tabby,731
+611,A892172,*Pansy,Adoption,Cat,Domestic Shorthair,Torbie/White,768
+612,A794117,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,16
+613,A772574,,Transfer,Cat,Domestic Shorthair Mix,White/Black,1466
+614,A734063,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,830
+615,A732665,*Livy,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,125
+616,A733274,,Transfer,Cat,Domestic Medium Hair Mix,Blue,23
+617,A888707,,Adoption,Cat,Domestic Shorthair,Black/White,99
+618,A752025,*Hodor,Transfer,Cat,Domestic Shorthair Mix,Black/White,59
+619,A877767,A877767,Adoption,Cat,Domestic Shorthair,Calico,62
+620,A758067,,Adoption,Cat,Domestic Shorthair Mix,Tortie,69
+621,A776405,,Adoption,Cat,Domestic Shorthair Mix,Black,94
+622,A749470,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,31
+623,A842630,*Victor,Adoption,Cat,Domestic Shorthair,Brown Tabby,149
+624,A677278,*Biskit,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,390
+625,A745319,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,366
+626,A863728,*Mariposa,Transfer,Cat,Domestic Shorthair,Calico,380
+627,A796693,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,736
+628,A678239,,Transfer,Cat,Domestic Shorthair Mix,Tortie,39
+629,A841809,*Toasty Marshmallow,Adoption,Cat,Siamese Mix,Flame Point,854
+630,A870055,Frosty,Adoption,Cat,Domestic Medium Hair,White/Black,80
+631,A726557,*Willa,Adoption,Cat,Domestic Shorthair Mix,Tortie,79
+632,A821864,Mello,Adoption,Cat,Domestic Shorthair,White/Gray,91
+633,A697006,Scout,Return to Owner,Cat,Domestic Medium Hair Mix,Black/White,731
+634,A878457,,Transfer,Cat,Domestic Shorthair,Brown Tabby,1462
+635,A794616,*Pam,Adoption,Cat,Domestic Shorthair,Black/White,87
+636,A864193,Salem,Adoption,Cat,Domestic Medium Hair,Black,114
+637,A747339,,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,78
+638,A688096,Khloe,Adoption,Cat,Domestic Shorthair Mix,White,564
+639,A788196,Jack,Adoption,Cat,Ragdoll Mix,Flame Point,689
+640,A707942,Flash,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,101
+641,A856626,*Checkers,Adoption,Cat,Domestic Shorthair,Black,91
+642,A724678,*Chandler,Adoption,Cat,Domestic Shorthair Mix,Black/White,88
+643,A779915,Aubin,Adoption,Cat,Siamese Mix,Lynx Point,75
+644,A747735,Riley,Adoption,Cat,Siamese Mix,Tortie Point,328
+645,A707349,*Esmerelda,Adoption,Cat,Siamese Mix,Seal Point,1050
+646,A675803,,Transfer,Cat,Domestic Shorthair Mix,White/Brown,16
+647,A867279,*Ginger,Adoption,Cat,Domestic Shorthair,Lynx Point,65
+648,A730993,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,275
+649,A676392,,Transfer,Cat,Domestic Shorthair Mix,Black/White,184
+650,A761898,Felix,Return to Owner,Cat,Domestic Shorthair Mix,White/Black,1473
+651,A810976,Liam,Rto-Adopt,Cat,Domestic Shorthair,White/Black,738
+652,A783153,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,22
+653,A766489,Rizzo,Return to Owner,Cat,Domestic Shorthair Mix,Gray/White,366
+654,A720310,,Euthanasia,Cat,Domestic Shorthair Mix,Black/White,366
+655,A680632,,Adoption,Cat,Domestic Medium Hair Mix,Cream Tabby/White,75
+656,A721361,Door,Transfer,Cat,Domestic Medium Hair Mix,Calico,491
+657,A684976,,Euthanasia,Cat,Domestic Shorthair Mix,Orange Tabby,2192
+658,A733459,,Transfer,Cat,Domestic Shorthair Mix,Calico,47
+659,A825786,,Transfer,Cat,Siamese,Chocolate/Seal Point,379
+660,A793888,Domino,Adoption,Cat,Domestic Shorthair Mix,Black/White,140
+661,A839255,Meenie,Adoption,Cat,Domestic Shorthair,Gray Tabby/White,78
+662,A813098,,Transfer,Cat,Domestic Medium Hair,Lynx Point,369
+663,A663553,Teddy,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,164
+664,A776767,,Transfer,Cat,Domestic Shorthair Mix,Gray Tabby,4
+665,A885999,*Velvet,Transfer,Cat,Domestic Shorthair,Brown Tabby,550
+666,A793980,*Gnocchi,Adoption,Cat,Domestic Shorthair Mix,Black,61
+667,A883096,,Transfer,Cat,Domestic Shorthair,Brown Tabby,15
+668,A772117,*Fern,Adoption,Cat,Domestic Shorthair,Calico,100
+669,A773280,*Uno,Adoption,Cat,Domestic Shorthair Mix,Black,88
+670,A686973,,Adoption,Cat,Domestic Shorthair Mix,Blue,69
+671,A769982,Unknown,Euthanasia,Cat,Domestic Shorthair Mix,Black/Gray,2192
+672,A801313,,Transfer,Cat,Domestic Shorthair,Orange Tabby,16
+673,A772769,,Transfer,Cat,Domestic Medium Hair Mix,Black,3653
+674,A846261,*Plum,Adoption,Cat,Domestic Medium Hair Mix,Orange Tabby/White,215
+675,A895095,*Willy,Adoption,Cat,Domestic Shorthair,Blue Tabby,746
+676,A845386,*Inari,Adoption,Cat,Domestic Medium Hair,Calico,153
+677,A835029,A835029,Adoption,Cat,Domestic Shorthair,Tortie,88
+678,A842393,*Shawn,Adoption,Cat,Domestic Shorthair,Orange Tabby/White,63
+679,A760458,*Sorbet,Transfer,Cat,Domestic Longhair Mix,Seal Point/Buff,280
+680,A713302,,Transfer,Cat,Domestic Shorthair Mix,Black/White,31
+681,A700150,*Storm,Adoption,Cat,Siamese Mix,Blue Point,64
+682,A885622,*Fortune,Transfer,Cat,Domestic Shorthair,Brown Tabby,48
+683,A790379,,Transfer,Cat,Domestic Shorthair Mix,Silver Tabby,368
+684,A843735,,Transfer,Cat,Domestic Shorthair,Tortie,24
+685,A891944,*James,Adoption,Cat,Domestic Shorthair,Blue Tabby/White,102
+686,A870458,A870458,Disposal,Cat,Domestic Shorthair,Gray/White,735
+687,A680917,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,16
+688,A846707,*Gouda,Adoption,Cat,Domestic Shorthair,Blue Tabby,72
+689,A881590,*Cocoa,Adoption,Cat,Domestic Shorthair,Black,839
+690,A763761,Louise,Transfer,Cat,Domestic Shorthair Mix,Black/White,2200
+691,A815291,*Frances,Transfer,Cat,Domestic Shorthair,Blue Tabby/White,593
+692,A806787,*Saavik,Adoption,Cat,Domestic Shorthair,Blue/White,134
+693,A670437,,Adoption,Cat,Angora Mix,White,339
+694,A677075,,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,109
+695,A884769,Bailey,Adoption,Cat,Domestic Shorthair,Blue Tabby/White,75
+696,A797479,,Transfer,Cat,Domestic Shorthair,Brown Tabby,105
+697,A853762,*Essie,Adoption,Cat,Domestic Shorthair,Brown Tabby,768
+698,A808632,Knobby,Transfer,Cat,Domestic Shorthair,Black,4398
+699,A749139,Blue Fuzz,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,742
+700,A677857,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,127
+701,A869687,,Return to Owner,Cat,Siamese,Flame Point,3654
+702,A743812,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,61
+703,A756478,Chelsie,Died,Cat,Domestic Shorthair Mix,Brown Tabby,5926
+704,A680489,*Trixie,Adoption,Cat,Domestic Shorthair Mix,Tortie,116
+705,A888811,204 Grams,Transfer,Cat,Domestic Shorthair,Brown Tabby,32
+706,A891778,Luna,Adoption,Cat,Domestic Shorthair,Tortie,101
+707,A773019,,Transfer,Cat,Domestic Shorthair Mix,Flame Point,1464
+708,A777427,,Adoption,Cat,Domestic Shorthair Mix,White/Orange Tabby,99
+709,A831172,,Transfer,Cat,Domestic Shorthair,Black,733
+710,A801669,Javi,Adoption,Cat,Domestic Shorthair,Black/White,255
+711,A686461,*Beau,Adoption,Cat,Domestic Medium Hair Mix,Blue Tabby,1460
+712,A878421,*Rotini,Adoption,Cat,Domestic Shorthair,Blue/White,108
+713,A706487,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,8
+714,A891106,Celeste,Adoption,Cat,Domestic Shorthair,Torbie,120
+715,A697990,Tinkerbell,Return to Owner,Cat,Domestic Shorthair Mix,Brown Tabby/White,1645
+716,A796645,,Transfer,Cat,Domestic Shorthair Mix,Black,31
+717,A863905,*Boomer,Adoption,Cat,Domestic Longhair,Brown Tabby,414
+718,A767673,Ziggy,Transfer,Cat,Snowshoe,Blue Point/White,3057
+719,A758873,Chicken,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,105
+720,A691023,,Transfer,Cat,Domestic Shorthair Mix,Black/White,731
+721,A869601,*Kevin,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,1466
+722,A804071,,Transfer,Cat,Domestic Shorthair,Gray Tabby,23
+723,A775134,Betsy,Transfer,Cat,Domestic Shorthair Mix,Tortie,304
+724,A784177,Paulo,Adoption,Cat,Domestic Shorthair Mix,Black/White,421
+725,A682024,Bruce Wayne,Adoption,Cat,Domestic Shorthair Mix,Black,1389
+726,A692240,,Adoption,Cat,Domestic Shorthair Mix,Black,105
+727,A857915,*Mushu,Adoption,Cat,Domestic Shorthair,Orange Tabby,96
+728,A718485,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,2565
+729,A711153,*Margot,Adoption,Cat,Domestic Medium Hair Mix,Blue,159
+730,A795681,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,735
+731,A733231,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,108
+732,A881623,,Transfer,Cat,Domestic Shorthair,Black,3
+733,A783350,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,58
+734,A723310,Mr. Cat,Adoption,Cat,Domestic Shorthair Mix,Black/White,768
+735,A812027,,Disposal,Cat,Domestic Shorthair,Black,61
+736,A829001,Taco,Rto-Adopt,Cat,Domestic Longhair,Orange Tabby,1853
+737,A747684,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,370
+738,A788659,Murphy,Return to Owner,Cat,Domestic Shorthair Mix,Orange Tabby/White,741
+739,A760598,,Transfer,Cat,American Shorthair Mix,Black/Black,370
+740,A809536,Paulie,Transfer,Cat,Domestic Medium Hair,Brown Tabby/White,4750
+741,A773428,*Atreyu,Died,Cat,Domestic Shorthair Mix,Orange Tabby,34
+742,A805092,Mumford,Return to Owner,Cat,Domestic Medium Hair,Orange Tabby/White,1097
+743,A713491,Boo!,Adoption,Cat,Domestic Longhair Mix,Brown Tabby,62
+744,A839147,,Transfer,Cat,Domestic Shorthair,Black,1
+745,A833232,*Johnny,Adoption,Cat,Domestic Shorthair,Orange Tabby/White,100
+746,A713016,*Loquat,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,221
+747,A729902,Luna,Adoption,Cat,Siamese Mix,Lynx Point,1105
+748,A725349,*Kitkat,Adoption,Cat,Domestic Shorthair Mix,Black/White,72
+749,A732152,,Transfer,Cat,Domestic Medium Hair Mix,Blue,9
+750,A604602,*Gibson,Return to Owner,Cat,Oriental Sh Mix,White/Brown Tabby,1720
+751,A826221,,Transfer,Cat,Domestic Shorthair,Brown Tabby,19
+752,A870302,,Adoption,Cat,Domestic Shorthair,Black,103
+753,A751296,*Leonard,Adoption,Cat,Domestic Medium Hair Mix,Blue Tabby,105
+754,A737748,*Dale,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,54
+755,A862487,,Transfer,Cat,Domestic Shorthair,Black,42
+756,A708282,*Justin,Transfer,Cat,Domestic Shorthair Mix,Black,83
+757,A731804,*Stella,Adoption,Cat,Domestic Shorthair Mix,Blue/White,420
+758,A783630,Gracie,Return to Owner,Cat,Domestic Shorthair/American Shorthair,Black,2560
+759,A738853,*Keith,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,146
+760,A766273,Alydor,Adoption,Cat,Domestic Shorthair Mix,Blue/White,1119
+761,A722523,,Transfer,Cat,Domestic Shorthair Mix,Black,3
+762,A695723,,Euthanasia,Cat,Domestic Shorthair Mix,Black,2192
+763,A770936,Nori,Adoption,Cat,Domestic Medium Hair Mix,Tortie,799
+764,A728544,Sassy,Adoption,Cat,Domestic Shorthair Mix,Torbie,1733
+765,A749534,*Turkey,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,92
+766,A878980,288 Grams,Transfer,Cat,Domestic Shorthair,Black,32
+767,A857261,*Henrik,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,66
+768,A771802,*Mango,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,67
+769,A866470,*Rhea,Adoption,Cat,Domestic Shorthair,Black,132
+770,A677612,Willie,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,69
+771,A683070,,Transfer,Cat,Domestic Shorthair Mix,White,4
+772,A784145,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,66
+773,A879845,154 Grams,Transfer,Cat,Domestic Shorthair,Orange Tabby,5
+774,A794830,,Transfer,Cat,Domestic Shorthair,Brown Tabby,370
+775,A691710,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,93
+776,A880371,*Effie Perine,Transfer,Cat,Domestic Shorthair,Tortie,372
+777,A825008,*Bruce Wayne,Adoption,Cat,Domestic Shorthair,Black,69
+778,A745810,,Transfer,Cat,Siamese Mix,Seal Point,366
+779,A771683,*Choo Nao,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,749
+780,A669837,*Chowder,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,776
+781,A800740,*Bernal,Transfer,Cat,Domestic Shorthair,Black/White,70
+782,A806347,*Cappuccino,Adoption,Cat,Domestic Shorthair,Orange Tabby,100
+783,A843187,,Euthanasia,Cat,Domestic Shorthair,Orange Tabby,304
+784,A882428,Jiji,Adoption,Cat,Domestic Longhair Mix,Black,72
+785,A800262,*Kibble,Transfer,Cat,Domestic Shorthair,White,134
+786,A729130,,Transfer,Cat,Domestic Shorthair Mix,White/Black,21
+787,A753317,,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,99
+788,A690068,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,11
+789,A732779,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,1097
+790,A755715,*Louie,Adoption,Cat,Domestic Shorthair Mix,Black Smoke,74
+791,A793930,,Transfer,Cat,Domestic Shorthair Mix,Blue,17
+792,A849679,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,732
+793,A847368,*Swanhild,Adoption,Cat,Domestic Shorthair,Brown Tabby,199
+794,A854732,Boots,Adoption,Cat,Domestic Shorthair Mix,Black/White,3325
+795,A797349,Nyla,Adoption,Cat,Domestic Shorthair,Calico,49
+796,A880530,*Mouse,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,79
+797,A753368,Zoey,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,100
+798,A771100,,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,104
+799,A692252,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,374
+800,A677014,Jenny,Transfer,Cat,Domestic Shorthair Mix,Blue/White,1156
+801,A740308,*Elia,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,528
+802,A784761,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,740
+803,A834001,,Transfer,Cat,Domestic Medium Hair,Gray Tabby,16
+804,A705774,,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,366
+805,A690051,,Transfer,Cat,Domestic Shorthair Mix,White/Blue,123
+806,A736146,,Adoption,Cat,Domestic Medium Hair Mix,Orange Tabby/White,159
+807,A794405,,Adoption,Cat,Domestic Shorthair Mix,White/Orange Tabby,79
+808,A702641,Tessie,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,67
+809,A735384,*Racer,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,272
+810,A812204,Gatita,Return to Owner,Cat,Domestic Shorthair,Black/White,735
+811,A852182,*Fritz,Adoption,Cat,Domestic Medium Hair,Black,233
+812,A816583,*Peaches,Adoption,Cat,Domestic Shorthair,Torbie,416
+813,A672494,*Katja,Adoption,Cat,Domestic Shorthair Mix,Torbie,159
+814,A656434,*Andrea,Adoption,Cat,Siamese Mix,Flame Point,5299
+815,A680423,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,153
+816,A798327,,Transfer,Cat,Domestic Shorthair,Tortie,25
+817,A839824,A839824,Transfer,Cat,Domestic Shorthair,Cream Tabby,31
+818,A885034,Zeus,Adoption,Cat,Siamese,Seal Point,92
+819,A714727,*Jenny,Adoption,Cat,Domestic Shorthair Mix,Black,172
+820,A872348,,Transfer,Cat,Domestic Shorthair,Orange Tabby/White,128
+821,A850447,Gomez Oliveros,Adoption,Cat,Domestic Shorthair,White/Black,73
+822,A846481,*Laurel,Adoption,Cat,Domestic Shorthair,Brown Tabby,130
+823,A777083,*Rizzo,Adoption,Cat,Domestic Shorthair Mix,Blue,88
+824,A766928,*Angus,Adoption,Cat,Domestic Shorthair Mix,Black/White,82
+825,A846503,*Pandora,Adoption,Cat,Domestic Shorthair Mix,Tortie,77
+826,A887344,75 Grams,Transfer,Cat,Domestic Shorthair,Orange Tabby,3
+827,A698009,Panther,Euthanasia,Cat,Domestic Shorthair Mix,Black,731
+828,A792986,,Adoption,Cat,Domestic Longhair Mix,Black,371
+829,A686556,Oreo,Adoption,Cat,Domestic Shorthair Mix,Black/White,2964
+830,A828848,,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby/White,78
+831,A859023,A859023,Transfer,Cat,Domestic Shorthair,Orange Tabby,5
+832,A739559,,Euthanasia,Cat,Domestic Shorthair Mix,Lynx Point,367
+833,A701585,*Charlie,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,78
+834,A769070,,Transfer,Cat,Domestic Shorthair Mix,Calico,735
+835,A664986,,Transfer,Cat,Domestic Shorthair Mix,Calico/White,367
+836,A864058,,Adoption,Cat,Domestic Shorthair,Brown Tabby,100
+837,A709642,,Euthanasia,Cat,Domestic Shorthair Mix,White/Brown Tabby,4749
+838,A758356,*Shelby,Adoption,Cat,Domestic Medium Hair Mix,Tortie,144
+839,A692018,Lilly,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,410
+840,A865252,*Fred,Adoption,Cat,Domestic Medium Hair,White/Orange Tabby,61
+841,A691582,*Pink,Transfer,Cat,Domestic Shorthair Mix,Calico,173
+842,A751392,*Bluebell,Adoption,Cat,Domestic Shorthair Mix,Tortie,805
+843,A665209,*Tilly,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,2198
+844,A841734,Mocha,Adoption,Cat,Domestic Shorthair Mix,Black/White,435
+845,A776349,Dinah,Adoption,Cat,Domestic Medium Hair Mix,Torbie,377
+846,A760323,*Abigail,Adoption,Cat,Domestic Shorthair Mix,Tortie/White,112
+847,A843234,,Euthanasia,Cat,Domestic Shorthair,Lilac Point,19
+848,A782350,*Snickrdoodl,Adoption,Cat,Domestic Medium Hair,Black/White,126
+849,A774327,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,56
+850,A825394,,Adoption,Cat,Domestic Shorthair,Blue,61
+851,A770546,*Monty,Adoption,Cat,Domestic Longhair Mix,Black,1484
+852,A732089,*Luther,Adoption,Cat,Domestic Shorthair Mix,Black,76
+853,A705455,,Return to Owner,Cat,Domestic Shorthair Mix,Orange Tabby,125
+854,A727277,*Hank,Adoption,Cat,Domestic Shorthair Mix,Black,78
+855,A684445,*Meechum,Adoption,Cat,Domestic Shorthair Mix,Black,3759
+856,A846023,,Transfer,Cat,Domestic Shorthair,Blue Tabby,19
+857,A880083,,Adoption,Cat,Domestic Shorthair Mix,Torbie/White,66
+858,A887430,A887430,Transfer,Cat,Domestic Shorthair Mix,Blue/White,24
+859,A720140,,Transfer,Cat,Domestic Shorthair Mix,Black/White,1467
+860,A894172,Sweet Pea,Adoption,Cat,Domestic Shorthair Mix,Torbie,58
+861,A800444,*Daisy,Died,Cat,Domestic Shorthair Mix,Brown Tabby,48
+862,A784042,,Adoption,Cat,Domestic Shorthair Mix,Calico,58
+863,A782158,*Courage,Return to Owner,Cat,Domestic Shorthair Mix,Torbie,372
+864,A733296,Lucy,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,783
+865,A890456,,Transfer,Cat,Domestic Shorthair,Brown Tabby,190
+866,A786296,*Misaki,Adoption,Cat,Domestic Shorthair Mix,Calico,1097
+867,A870079,*Monroe,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,84
+868,A792447,*Gigi,Adoption,Cat,Domestic Shorthair Mix,Black,67
+869,A740609,,Transfer,Cat,Domestic Shorthair Mix,Black/White,16
+870,A757345,*Schultz,Adoption,Cat,Domestic Shorthair Mix,Black,410
+871,A850904,*Rasputin,Adoption,Cat,Domestic Shorthair,Blue,100
+872,A687439,,Adoption,Cat,Domestic Shorthair Mix,Black,79
+873,A780069,,Transfer,Cat,Domestic Shorthair Mix,Black,96
+874,A775111,*Lemmy,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,143
+875,A666680,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,308
+876,A698040,,Transfer,Cat,Domestic Shorthair Mix,Tortie,366
+877,A666160,*Ivan,Adoption,Cat,Domestic Shorthair Mix,White/Blue,99
+878,A701267,,Transfer,Cat,Domestic Shorthair Mix,Blue,23
+879,A683906,Bandit,Transfer,Cat,Domestic Shorthair Mix,Black,62
+880,A860725,*Giblet,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,3685
+881,A643052,Yogi,Transfer,Cat,Domestic Longhair Mix,White/Orange Tabby,1860
+882,A734688,,Adoption,Cat,Domestic Shorthair Mix,Tortie,68
+883,A774660,*Ollie,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,209
+884,A834102,A834102,Transfer,Cat,Domestic Shorthair,Black,19
+885,A873578,Ollie,Return to Owner,Cat,Domestic Shorthair,Orange Tabby/White,1349
+886,A663926,Gracie,Transfer,Cat,Domestic Shorthair Mix,Tortie,1103
+887,A853992,Pickles,Adoption,Cat,Domestic Shorthair,Orange Tabby,137
+888,A731479,*Klein,Adoption,Cat,Domestic Shorthair Mix,Lynx Point/Tan,411
+889,A886050,187 Grams,Transfer,Cat,Domestic Shorthair,Black,15
+890,A727486,Minnie Mouse,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,157
+891,A747712,*Jess,Transfer,Cat,Domestic Shorthair Mix,Black,34
+892,A772075,Babar,Transfer,Cat,Domestic Medium Hair Mix,Brown Tabby/White,1386
+893,A776375,*Maddie,Adoption,Cat,Domestic Shorthair Mix,Calico,81
+894,A815083,Lacy,Transfer,Cat,Domestic Shorthair,Torbie,3665
+895,A774722,*Maria,Transfer,Cat,Domestic Shorthair Mix,Tortie,786
+896,A681017,Toloose,Adoption,Cat,Domestic Shorthair,Black/White,462
+897,A839752,Perrie Lynn,Adoption,Cat,Domestic Shorthair,Black,746
+898,A694928,,Euthanasia,Cat,Domestic Shorthair Mix,Orange Tabby/White,366
+899,A877637,,Transfer,Cat,Domestic Shorthair,Orange,4
+900,A875461,*Mouse,Adoption,Cat,Domestic Shorthair,Blue/White,576
+901,A797862,,Transfer,Cat,Domestic Medium Hair,Blue Tabby,1
+902,A784331,Tron Jeezy,Return to Owner,Cat,Domestic Shorthair Mix,Brown Tabby/White,3028
+903,A706096,*Selisa,Transfer,Cat,Domestic Shorthair Mix,White,80
+904,A695144,Manson,Return to Owner,Cat,Domestic Shorthair Mix,Black/White,734
+905,A670824,,Transfer,Cat,Domestic Longhair Mix,Blue Tabby,734
+906,A688684,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,154
+907,A702919,,Transfer,Cat,Domestic Shorthair Mix,Blue,48
+908,A856412,,Disposal,Cat,Domestic Shorthair,Gray/White,734
+909,A866989,,Adoption,Cat,Domestic Medium Hair,Blue/White,84
+910,A738834,,Transfer,Cat,Domestic Shorthair Mix,Gray Tabby,10
+911,A678675,*Jan,Transfer,Cat,Domestic Shorthair Mix,Black,42
+912,A778956,*Nick,Adoption,Cat,Domestic Shorthair Mix,Black,453
+913,A665078,,Euthanasia,Cat,Domestic Shorthair Mix,Black/White,1463
+914,A887666,Maggie,Adoption,Cat,Domestic Shorthair,Blue Tabby,1466
+915,A775951,Bartok,Adoption,Cat,Domestic Shorthair Mix,Gray/White,4031
+916,A708013,*Sourdough,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,4
+917,A749792,,Transfer,Cat,Domestic Shorthair Mix,Tortie,746
+918,A703337,Boki,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,84
+919,A669800,,Transfer,Cat,Domestic Shorthair Mix,Black,733
+920,A750157,*Butter,Adoption,Cat,Domestic Shorthair Mix,Chocolate Point,102
+921,A765929,,Transfer,Cat,Domestic Shorthair Mix,Black,187
+922,A741752,*Rodger,Transfer,Cat,Siamese Mix,Flame Point,2208
+923,A738615,Darth Vader,Return to Owner,Cat,Domestic Shorthair Mix,Black,1097
+924,A807992,,Euthanasia,Cat,Domestic Shorthair,Calico,738
+925,A794314,*Eleanor,Adoption,Cat,Domestic Shorthair Mix,Calico,70
+926,A776874,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,129
+927,A733752,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,66
+928,A713100,,Adoption,Cat,Domestic Shorthair Mix,Black/White,67
+929,A759807,,Transfer,Cat,Domestic Shorthair Mix,Torbie/White,2929
+930,A684252,,Adoption,Cat,Domestic Shorthair Mix,Blue,91
+931,A762319,Josie,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby/White,488
+932,A818530,*Nikolai,Adoption,Cat,Domestic Shorthair,Blue/White,1161
+933,A722966,*Dexter,Transfer,Cat,Snowshoe Mix,Seal Point,1104
+934,A775615,,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby,370
+935,A721316,*Onyx,Adoption,Cat,Domestic Shorthair Mix,Black,260
+936,A823003,Rajah,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,214
+937,A737502,Ivory,Adoption,Cat,Domestic Shorthair Mix,Blue/White,75
+938,A751067,*Salsa,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,96
+939,A771087,,Transfer,Cat,Domestic Shorthair Mix,Calico,369
+940,A878481,Flow Water,Return to Owner,Cat,Domestic Shorthair,Brown Tabby,1646
+941,A856222,A856222,Transfer,Cat,Domestic Shorthair,Tortie,15
+942,A738925,Snookers,Adoption,Cat,Siamese Mix,Lynx Point,371
+943,A677774,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,7
+944,A678127,*Bran,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,74
+945,A682398,*Ghost,Adoption,Cat,Domestic Shorthair Mix,Black/White,87
+946,A797066,*Kenickie,Died,Cat,Domestic Shorthair Mix,Blue Tabby/White,28
+947,A799544,*Piper,Transfer,Cat,Domestic Shorthair,Black,52
+948,A787410,,Transfer,Cat,Domestic Longhair Mix,Blue,12
+949,A692875,*Rembrandt,Adoption,Cat,Domestic Shorthair Mix,Black/White,60
+950,A840551,,Adoption,Cat,Domestic Shorthair,Blue Tabby,83
+951,A822904,Patches,Adoption,Cat,Domestic Shorthair,Brown Tabby,1506
+952,A697355,,Transfer,Cat,Domestic Longhair Mix,White/Black,731
+953,A808629,,Transfer,Cat,Domestic Medium Hair,Black,17
+954,A718879,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,378
+955,A856866,,Adoption,Cat,Domestic Shorthair,Calico,66
+956,A704146,,Euthanasia,Cat,Domestic Medium Hair Mix,Orange,62
+957,A824839,*Seal,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,94
+958,A790941,,Transfer,Cat,Domestic Shorthair Mix,Black,2
+959,A672056,,Transfer,Cat,Manx Mix,Blue Tabby/White,733
+960,A885929,,Died,Cat,Domestic Shorthair,Tortie,194
+961,A699897,*Minka,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,742
+962,A735684,*Will,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,84
+963,A806652,*Jambalaya,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,85
+964,A847854,Ozzy,Adoption,Cat,Domestic Shorthair,Brown Tabby,62
+965,A745424,,Transfer,Cat,Domestic Shorthair Mix,Black,738
+966,A705196,*Carlos,Adoption,Cat,Domestic Shorthair Mix,Black/White,68
+967,A821395,*Marble,Adoption,Cat,Domestic Shorthair Mix,Tortie,133
+968,A695427,*Ted,Adoption,Cat,Domestic Shorthair Mix,Black,403
+969,A802480,Sandman,Transfer,Cat,Ragdoll/Munchkin Longhair,Orange Tabby/White,553
+970,A884736,A884736,Transfer,Cat,Domestic Shorthair,Blue Tabby,45
+971,A794468,,Died,Cat,Domestic Shorthair,Brown Tabby,47
+972,A809429,,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby,190
+973,A750985,Moko,Return to Owner,Cat,Domestic Shorthair Mix,Tortie,6217
+974,A697838,*Rita,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,430
+975,A790335,,Died,Cat,Domestic Shorthair Mix,Black,5
+976,A689046,,Transfer,Cat,Domestic Shorthair Mix,Black,185
+977,A810378,*Grace,Adoption,Cat,Domestic Medium Hair,Black/White,114
+978,A790212,*Bevo,Return to Owner,Cat,Domestic Shorthair Mix,Orange Tabby,738
+979,A849585,A849585,Euthanasia,Cat,Domestic Shorthair Mix,Black/White,192
+980,A699031,Tabitha,Adoption,Cat,Himalayan Mix,Lynx Point,4148
+981,A794606,Sarita,Adoption,Cat,Domestic Shorthair,White/Blue,314
+982,A686214,*Sam,Transfer,Cat,Domestic Shorthair Mix,White/Black,84
+983,A753262,,Adoption,Cat,Domestic Shorthair Mix,White/Black,53
+984,A883371,,Disposal,Cat,Domestic Shorthair,Black,738
+985,A732813,*Tilly,Transfer,Cat,Domestic Shorthair Mix,Black/White,258
+986,A871315,,Adoption,Cat,Domestic Shorthair,Calico,738
+987,A707372,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,366
+988,A892771,,Transfer,Cat,Domestic Shorthair,Orange Tabby,47
+989,A740054,*Gruff,Adoption,Cat,Siamese Mix,Lynx Point,384
+990,A872393,Achilles,Adoption,Cat,Domestic Shorthair,Orange Tabby/White,750
+991,A554236,Daisy,Euthanasia,Cat,Domestic Shorthair Mix,Orange Tabby,4226
+992,A880725,*Casper,Adoption,Cat,Domestic Shorthair Mix,Blue,77
+993,A873410,*Annie,Adoption,Cat,Domestic Shorthair,Torbie/White,756
+994,A808625,,Transfer,Cat,Domestic Shorthair,Orange Tabby,308
+995,A881457,A881457,Adoption,Cat,Domestic Shorthair,Black,78
+996,A705579,*Beckman,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,104
+997,A803838,Madam,Adoption,Cat,Domestic Shorthair,Tortie,227
+998,A889164,*Laezel,Adoption,Cat,Domestic Medium Hair,Brown Tabby,73
+999,A807383,,Transfer,Cat,Domestic Shorthair,Calico,735
+1000,A742947,Mimi,Adoption,Cat,Domestic Shorthair Mix,Black,63
+1001,A720302,*Dahlia,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,375
+1002,A797429,*Pozole,Adoption,Cat,Domestic Shorthair,Orange Tabby,110
+1003,A789542,*Nacho,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,756
+1004,A727842,*Martha,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,114
+1005,A735378,*Wallis,Transfer,Cat,Domestic Shorthair Mix,Black/White,111
+1006,A743684,Kyle,Adoption,Cat,Domestic Medium Hair Mix,Orange Tabby,160
+1007,A664001,*Albert,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,211
+1008,A820652,Turbo,Adoption,Cat,Domestic Shorthair,Orange Tabby,4400
+1009,A885965,Winnie,Adoption,Cat,Domestic Shorthair,Calico,110
+1010,A705510,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,39
+1011,A820566,,Adoption,Cat,Domestic Medium Hair Mix,Blue Tabby,97
+1012,A824188,*Benny,Adoption,Cat,Domestic Shorthair,Cream Tabby/White,135
+1013,A882540,*Roxanne,Adoption,Cat,Domestic Shorthair,Blue Tabby,90
+1014,A722901,,Transfer,Cat,Domestic Shorthair Mix,Tortie,16
+1015,A726631,*Mia,Adoption,Cat,Domestic Shorthair Mix,Tortie,131
+1016,A703960,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,4
+1017,A818181,,Transfer,Cat,Domestic Shorthair Mix,Black/White,23
+1018,A668671,Chris,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,1837
+1019,A700298,,Transfer,Cat,Domestic Shorthair Mix,Tortie,3
+1020,A838510,Garfield,Adoption,Cat,Domestic Shorthair,Orange Tabby,101
+1021,A870248,,Adoption,Cat,Domestic Shorthair,Brown Tabby,127
+1022,A841977,*Socks,Adoption,Cat,Domestic Shorthair,Black/White,98
+1023,A679050,,Euthanasia,Cat,Domestic Shorthair Mix,Black,50
+1024,A700757,Faith,Adoption,Cat,Domestic Shorthair Mix,Cream/White,334
+1025,A796393,,Euthanasia,Cat,Domestic Shorthair,Brown Tabby,377
+1026,A781599,*Luigi,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,164
+1027,A707414,Aerie,Adoption,Cat,Maine Coon Mix,Brown Tabby,744
+1028,A881724,Calli,Adoption,Cat,Domestic Shorthair,White/Black,616
+1029,A885993,,Transfer,Cat,Domestic Shorthair,Blue Tabby,44
+1030,A713470,,Transfer,Cat,Domestic Shorthair Mix,Black/White,731
+1031,A750144,Winston,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,757
+1032,A757052,,Transfer,Cat,Domestic Shorthair Mix,Gray,15
+1033,A752199,Bleeker,Adoption,Cat,Domestic Shorthair Mix,Calico/Brown,71
+1034,A838004,George,Adoption,Cat,Domestic Shorthair,Cream Tabby/White,368
+1035,A726398,Garrus,Adoption,Cat,Domestic Medium Hair Mix,Black,69
+1036,A689158,*Indigo,Transfer,Cat,Domestic Shorthair Mix,Blue,46
+1037,A765699,Kevin,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,327
+1038,A785955,,Adoption,Cat,Domestic Shorthair Mix,Calico,253
+1039,A706866,,Euthanasia,Cat,Domestic Shorthair Mix,Black/White,2925
+1040,A860131,Mr. Robert,Transfer,Cat,Domestic Shorthair,White/Black,737
+1041,A800222,*223 Grams,Transfer,Cat,Siamese,White,23
+1042,A686526,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,5
+1043,A556434,Pica,Return to Owner,Cat,American Shorthair Mix,Lynx Point,5767
+1044,A795478,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,52
+1045,A792791,,Transfer,Cat,Domestic Medium Hair Mix,Gray/White,372
+1046,A775640,Haides,Adoption,Cat,Domestic Shorthair,Orange Tabby,1570
+1047,A866379,*Emmylou,Adoption,Cat,Domestic Shorthair,Blue Tabby,104
+1048,A852840,*Lyft,Adoption,Cat,Domestic Shorthair Mix,Black,64
+1049,A883554,A883554,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,23
+1050,A835738,*Velvet,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,106
+1051,A877462,*Dulcimer,Adoption,Cat,Domestic Medium Hair Mix,Calico,86
+1052,A797388,*Hank,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,84
+1053,A847034,*Pickle,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,263
+1054,A873203,,Transfer,Cat,Domestic Shorthair,Orange Tabby/White,749
+1055,A780956,*Sue,Adoption,Cat,Domestic Shorthair Mix,Torbie,96
+1056,A874632,,Adoption,Cat,Domestic Shorthair,Orange Tabby,84
+1057,A706094,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby/White,366
+1058,A703605,Karis,Adoption,Cat,Domestic Medium Hair Mix,Blue Tabby/White,71
+1059,A805972,*Rudy,Adoption,Cat,Domestic Shorthair,Black/White,234
+1060,A709434,*Alysia,Transfer,Cat,Domestic Shorthair Mix,Black,3660
+1061,A670992,,Transfer,Cat,Domestic Shorthair Mix,Black,1099
+1062,A754451,,Transfer,Cat,Domestic Shorthair Mix,Black/White,111
+1063,A834236,*Bunny,Adoption,Cat,Domestic Shorthair Mix,Black/White,95
+1064,A490230,Jupiter,Return to Owner,Cat,Domestic Shorthair Mix,Brown Tabby/White,4440
+1065,A706234,Jewel,Adoption,Cat,Domestic Shorthair Mix,Torbie,57
+1066,A767778,*Gatsby,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,339
+1067,A732781,*Lydia,Transfer,Cat,Domestic Shorthair Mix,Black/White,407
+1068,A833895,A833895,Adoption,Cat,Domestic Shorthair,Tortie,102
+1069,A769978,Mark,Return to Owner,Cat,Domestic Medium Hair Mix,White/Gray,2193
+1070,A845354,Felix,Adoption,Cat,Bengal Mix,Brown Tabby,3660
+1071,A724535,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,9
+1072,A817864,*Smoked,Transfer,Cat,Domestic Shorthair,Blue,3667
+1073,A872029,,Adoption,Cat,Domestic Shorthair,Black,75
+1074,A690816,*Chrissie,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,69
+1075,A850931,Bambi,Transfer,Cat,Domestic Shorthair,Torbie,700
+1076,A774102,Skyler,Return to Owner,Cat,Domestic Shorthair Mix,Black,1146
+1077,A786131,,Adoption,Cat,Domestic Shorthair,Calico,372
+1078,A868770,*Greta,Adoption,Cat,Domestic Shorthair,Black/White,132
+1079,A884070,Simba,Adoption,Cat,Domestic Shorthair,Orange Tabby,63
+1080,A818123,Curious,Transfer,Cat,Domestic Shorthair Mix,White/Cream Tabby,308
+1081,A875480,Kawa,Adoption,Cat,Domestic Shorthair Mix,Calico/White,375
+1082,A877837,*Cornbread,Adoption,Cat,Domestic Shorthair,Orange Tabby,377
+1083,A739493,,Transfer,Cat,Domestic Longhair Mix,Black/White,23
+1084,A721059,Conan,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,2452
+1085,A706935,*Tommy,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,66
+1086,A867584,*Tiger,Adoption,Cat,Domestic Medium Hair,Orange Tabby/White,193
+1087,A725153,*Giovanni,Adoption,Cat,Domestic Shorthair Mix,Blue/White,95
+1088,A801661,,Transfer,Cat,Domestic Shorthair,Black/White,338
+1089,A669227,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,124
+1090,A679723,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,69
+1091,A734884,*Marlon J.,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,75
+1092,A725964,Raindrop,Adoption,Cat,Domestic Shorthair Mix,Blue/White,57
+1093,A713226,*Peony,Adoption,Cat,Domestic Shorthair Mix,Torbie,136
+1094,A874535,Ben From Ozark,Transfer,Cat,Domestic Shorthair,Silver Tabby/White,745
+1095,A696093,,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby/White,154
+1096,A736351,*Amber,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,42
+1097,A685618,,Euthanasia,Cat,Domestic Medium Hair Mix,Brown Tabby,1827
+1098,A699308,,Transfer,Cat,Domestic Shorthair Mix,Black,16
+1099,A867228,*Ginger,Adoption,Cat,Domestic Shorthair,Orange Tabby,154
+1100,A753554,Little Bit,Transfer,Cat,Domestic Shorthair Mix,Blue/White,224
+1101,A839240,,Transfer,Cat,Domestic Shorthair,Brown Tabby,13
+1102,A851737,Hex,Adoption,Cat,Domestic Shorthair,Blue Tabby,312
+1103,A726194,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,93
+1104,A763059,,Transfer,Cat,American Shorthair Mix,Tortie/Black,370
+1105,A780278,Choco Chip,Transfer,Cat,Domestic Shorthair Mix,Tortie,551
+1106,A691752,,Transfer,Cat,Domestic Shorthair Mix,Blue,23
+1107,A804207,*Heidi,Adoption,Cat,Domestic Shorthair Mix,Calico,764
+1108,A870339,,Return to Owner,Cat,Domestic Shorthair,Orange Tabby/White,87
+1109,A757909,,Transfer,Cat,Domestic Medium Hair Mix,Calico Point/White,139
+1110,A774657,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,369
+1111,A858539,Maria,Adoption,Cat,Domestic Shorthair Mix,Calico,77
+1112,A791955,,Transfer,Cat,Domestic Shorthair Mix,Tortie,734
+1113,A819663,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,13
+1114,A733666,*Louisa,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,167
+1115,A708034,*Bindi,Adoption,Cat,Siamese Mix,Flame Point,89
+1116,A863031,Marceline,Adoption,Cat,Domestic Shorthair Mix,White/Black,123
+1117,A821956,*194 Grams,Transfer,Cat,Domestic Longhair,Blue Tabby,6
+1118,A821869,Buff,Transfer,Cat,Domestic Shorthair,Black,2563
+1119,A749888,Charlie,Adoption,Cat,Domestic Shorthair Mix,Black,758
+1120,A699968,Harley,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,1124
+1121,A822997,,Transfer,Cat,Domestic Shorthair,Brown Tabby,737
+1122,A862541,Morphius,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,2195
+1123,A706313,*Carlton,Adoption,Cat,Domestic Longhair Mix,Black/White,125
+1124,A775468,,Adoption,Cat,Domestic Shorthair Mix,Calico,107
+1125,A722607,*Ron Weasley,Adoption,Cat,Domestic Shorthair Mix,Black Tabby,98
+1126,A839573,*Petal,Adoption,Cat,Domestic Shorthair Mix,Torbie/White,87
+1127,A808600,,Disposal,Cat,Domestic Shorthair,Black,365
+1128,A681467,,Transfer,Cat,Domestic Shorthair Mix,Torbie,366
+1129,A887606,,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,47
+1130,A843920,,Adoption,Cat,Domestic Medium Hair,Black/White,86
+1131,A794809,,Transfer,Cat,Domestic Shorthair,Orange Tabby,19
+1132,A796011,*Tiny Turtle,Adoption,Cat,Domestic Shorthair,Brown Tabby,95
+1133,A888984,*Matcha,Adoption,Cat,Domestic Shorthair,Tortie,89
+1134,A668274,Wrigley,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,77
+1135,A827193,*Victoria,Adoption,Cat,Domestic Medium Hair,Calico,387
+1136,A804839,Shadow,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,151
+1137,A728142,,Transfer,Cat,Domestic Shorthair Mix,Calico,16
+1138,A857237,*Rupert,Transfer,Cat,Domestic Shorthair,Cream Tabby,744
+1139,A678117,,Transfer,Cat,Domestic Shorthair Mix,Black/White,30
+1140,A801416,,Adoption,Cat,Siamese,Seal Point,53
+1141,A849608,*Finny,Adoption,Cat,Domestic Shorthair,Brown Tabby,110
+1142,A746521,,Transfer,Cat,Domestic Shorthair Mix,Black,16
+1143,A728312,,Transfer,Cat,Domestic Shorthair Mix,Blue,32
+1144,A876398,*Ethel,Adoption,Cat,Domestic Shorthair,White/Brown Tabby,99
+1145,A736924,*Cheerio,Transfer,Cat,Domestic Shorthair Mix,Black,38
+1146,A686330,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,182
+1147,A814137,,Disposal,Cat,Domestic Shorthair,Black,1462
+1148,A794911,*Mickey,Adoption,Cat,Domestic Shorthair,Black/White,200
+1149,A811471,,Transfer,Cat,Domestic Shorthair,Orange Tabby/White,734
+1150,A803093,,Transfer,Cat,Domestic Shorthair,Brown Tabby,735
+1151,A679263,,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby,23
+1152,A751942,Terry,Return to Owner,Cat,Domestic Shorthair Mix,Black,1388
+1153,A738238,Oliver,Adoption,Cat,Domestic Shorthair Mix,Black/White,72
+1154,A868745,*Whisssskers,Transfer,Cat,Domestic Shorthair,Black,71
+1155,A703672,*Chillon,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,66
+1156,A835252,Leopard,Adoption,Cat,Domestic Shorthair,Brown Tabby,321
+1157,A701397,*Platypus,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,73
+1158,A735532,*Harry,Transfer,Cat,Domestic Shorthair Mix,Blue/White,45
+1159,A666546,Ami*,Euthanasia,Cat,Domestic Shorthair Mix,Brown Tabby/White,85
+1160,A734610,*Pearl,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,384
+1161,A690731,Jinx,Adoption,Cat,Balinese Mix,Chocolate Point/White,68
+1162,A745413,*Harvey,Transfer,Cat,Domestic Shorthair Mix,White/Black,372
+1163,A876330,*Sugar,Adoption,Cat,Domestic Shorthair,Brown Tabby,118
+1164,A735975,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,34
+1165,A715361,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,85
+1166,A733326,*Mama Fu,Transfer,Cat,Domestic Shorthair Mix,Calico,32
+1167,A697727,Izzy,Adoption,Cat,Domestic Shorthair Mix,Calico,75
+1168,A703807,*Max,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,106
+1169,A752357,*Nina,Adoption,Cat,Domestic Shorthair Mix,Torbie,73
+1170,A730600,,Transfer,Cat,Domestic Shorthair Mix,Blue Tabby,214
+1171,A760600,*Bianca,Transfer,Cat,Domestic Shorthair Mix,Black,188
+1172,A827035,,Adoption,Cat,Domestic Shorthair,Black/White,196
+1173,A837274,Silverstreak,Rto-Adopt,Cat,Domestic Shorthair Mix,Brown Tabby/White,4427
+1174,A848078,A848078,Adoption,Cat,Domestic Shorthair Mix,Calico,75
+1175,A449703,Monkey,Adoption,Cat,Siamese Mix,Seal Point,3131
+1176,A751434,*Roger,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,100
+1177,A864060,,Adoption,Cat,Domestic Medium Hair,Brown Tabby,108
+1178,A747205,,Transfer,Cat,Domestic Shorthair,Black,1470
+1179,A800904,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,16
+1180,A772909,Gomez,Adoption,Cat,Domestic Shorthair Mix,Black/White,83
+1181,A731662,*Opal,Adoption,Cat,Domestic Shorthair Mix,Blue,81
+1182,A873523,Harriet,Adoption,Cat,Domestic Shorthair,Lynx Point,60
+1183,A677704,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,10
+1184,A810585,,Transfer,Cat,Domestic Shorthair,Cream Tabby,16
+1185,A857892,,Euthanasia,Cat,Domestic Longhair,Brown Tabby,5114
+1186,A843852,*Johnny,Adoption,Cat,Domestic Shorthair Mix,White/Brown Tabby,84
+1187,A658836,Princess,Transfer,Cat,Domestic Longhair Mix,Blue Tabby/White,6065
+1188,A661559,George,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,1209
+1189,A871331,,Adoption,Cat,Domestic Shorthair,Orange Tabby/White,78
+1190,A721563,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,1836
+1191,A779614,,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,10
+1192,A798082,*Sybil,Transfer,Cat,Domestic Shorthair,White/Black,126
+1193,A808884,Kiki,Adoption,Cat,Siamese,Cream/Brown,81
+1194,A834314,,Adoption,Cat,Domestic Longhair,Blue/White,99
+1195,A706295,*Marty,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,66
+1196,A881529,*Jules,Adoption,Cat,Domestic Shorthair,Orange Tabby,767
+1197,A816103,,Transfer,Cat,Domestic Medium Hair,Black/White,18
+1198,A746165,,Transfer,Cat,Domestic Medium Hair Mix,Black/White,11
+1199,A863458,A863458,Euthanasia,Cat,Domestic Shorthair,Black/White,14
+1200,A703080,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,23
+1201,A681348,Moose,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,97
+1202,A838795,A838795,Adoption,Cat,Domestic Shorthair,Blue/White,61
+1203,A798667,*Oliver,Adoption,Cat,Domestic Shorthair,Black,94
+1204,A841199,A841199,Adoption,Cat,Siamese,Lynx Point,82
+1205,A773344,*Molly,Adoption,Cat,Snowshoe Mix,Seal Point,84
+1206,A708890,*Obsidian,Adoption,Cat,Domestic Shorthair Mix,Black/White,176
+1207,A860078,*Maverick,Adoption,Cat,Domestic Shorthair Mix,Blue/White,85
+1208,A850697,Odin,Return to Owner,Cat,Domestic Shorthair,Orange Tabby,735
+1209,A859240,A859240,Transfer,Cat,Domestic Medium Hair Mix,Brown Tabby,34
+1210,A870223,*Penny,Adoption,Cat,Domestic Shorthair,Black/White,184
+1211,A849356,,Adoption,Cat,Domestic Shorthair,Brown Tabby,95
+1212,A705686,Smokey,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,1100
+1213,A863189,169 Grams,Transfer,Cat,Domestic Shorthair Mix,Black/White,23
+1214,A790023,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,216
+1215,A711015,,Euthanasia,Cat,Domestic Shorthair Mix,Blue Tabby/White,4
+1216,A692765,,Euthanasia,Cat,Domestic Shorthair Mix,Brown Tabby/White,69
+1217,A681405,Leonidas,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,101
+1218,A836480,*Paul,Transfer,Cat,Domestic Shorthair,Black,42
+1219,A753213,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,8
+1220,A868733,*Cosmo,Adoption,Cat,Domestic Shorthair,Black/White,86
+1221,A748222,Leo,Rto-Adopt,Cat,Domestic Shorthair Mix,White/Orange Tabby,746
+1222,A806033,*Gladys,Adoption,Cat,Domestic Shorthair,Brown Tabby,96
+1223,A700046,,Transfer,Cat,Domestic Shorthair Mix,Black,4
+1224,A815114,,Disposal,Cat,Domestic Shorthair,Black,732
+1225,A857638,Mr. Benjamin,Adoption,Cat,Domestic Shorthair Mix,Black,138
+1226,A844624,A844624,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,133
+1227,A743876,*Aubrey,Adoption,Cat,Domestic Shorthair Mix,Tortie,85
+1228,A802189,*Raspberry,Adoption,Cat,Domestic Shorthair,Tortie,80
+1229,A752564,*Isaac,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,80
+1230,A773275,,Transfer,Cat,Domestic Shorthair Mix,White/Blue,4
+1231,A833441,*Asher,Adoption,Cat,Domestic Shorthair,Blue Tabby,79
+1232,A827478,,Transfer,Cat,Domestic Shorthair Mix,White/Orange Tabby,371
+1233,A796738,*Schmidt,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,76
+1234,A777783,Casper,Adoption,Cat,Domestic Shorthair Mix,Blue,83
+1235,A843811,Mabel,Adoption,Cat,Domestic Medium Hair Mix,Brown Tabby,129
+1236,A738335,Newman,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,758
+1237,A883443,*Calliope,Adoption,Cat,Domestic Medium Hair,Brown Tabby/White,52
+1238,A697640,Clementine,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,501
+1239,A704863,*Alistair,Euthanasia,Cat,Domestic Longhair Mix,Black,115
+1240,A881967,,Euthanasia,Cat,Domestic Shorthair,Blue/Blue,2557
+1241,A711327,*Sprinkles,Adoption,Cat,Domestic Shorthair Mix,Tortie,82
+1242,A684037,,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,108
+1243,A679931,*Salsa,Adoption,Cat,Domestic Shorthair Mix,Black/White,83
+1244,A707644,*Posey,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,757
+1245,A694824,,Adoption,Cat,Domestic Shorthair Mix,Tortie,173
+1246,A683408,,Transfer,Cat,Domestic Shorthair Mix,Tortie,547
+1247,A878494,Camille,Adoption,Cat,Domestic Shorthair,Blue/White,736
+1248,A864499,Tarot,Adoption,Cat,Domestic Shorthair,Black/White,105
+1249,A873238,*Taco,Transfer,Cat,Domestic Shorthair,Blue/White,2576
+1250,A697147,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,246
+1251,A708884,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby/White,23
+1252,A781313,,Transfer,Cat,Domestic Shorthair Mix,Black,63
+1253,A828748,,Transfer,Cat,Domestic Longhair,Blue,66
+1254,A872292,*Pixie,Adoption,Cat,Domestic Shorthair,Cream Tabby,65
+1255,A726827,Sweet Pea,Adoption,Cat,Domestic Shorthair Mix,Torbie,80
+1256,A723974,Kitty Boy,Transfer,Cat,Domestic Medium Hair Mix,White/Tan,4399
+1257,A879821,Kevin,Adoption,Cat,Domestic Shorthair,Black/White,98
+1258,A843266,169 Grams,Transfer,Cat,Domestic Shorthair,Blue Tabby/White,7
+1259,A879670,,Transfer,Cat,Domestic Shorthair,Orange,6
+1260,A793697,*Trixie Mattell,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,125
+1261,A683231,X,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,740
+1262,A857330,,Transfer,Cat,Domestic Shorthair,Brown Tabby,13
+1263,A796389,,Transfer,Cat,Domestic Longhair,Torbie,736
+1264,A741077,,Transfer,Cat,Domestic Shorthair Mix,Black/Black,50
+1265,A842162,Meiko,Adoption,Cat,Domestic Shorthair Mix,White/Orange Tabby,2227
+1266,A675926,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,4
+1267,A858503,*Evie,Adoption,Cat,Domestic Shorthair,Orange Tabby,69
+1268,A708012,*Cornbread,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,4
+1269,A823263,*Violet,Adoption,Cat,Domestic Medium Hair,Blue Tabby/White,194
+1270,A797200,*Finnegan,Transfer,Cat,Domestic Shorthair,Brown Tabby,80
+1271,A713342,,Adoption,Cat,Domestic Medium Hair Mix,Blue Smoke,77
+1272,A701752,*Ritzy,Adoption,Cat,Domestic Shorthair Mix,Black/White,63
+1273,A773224,,Adoption,Cat,Domestic Shorthair Mix,Gray Tabby/White,95
+1274,A727119,*Victoria,Missing,Cat,Domestic Shorthair Mix,Brown Tabby,77
+1275,A881305,*Jerry,Adoption,Cat,Domestic Shorthair,Blue,111
+1276,A840177,A840177,Adoption,Cat,Domestic Shorthair,Brown Tabby,129
+1277,A861171,Jackson,Adoption,Cat,Domestic Shorthair,Blue Tabby/White,4042
+1278,A795391,*146 Grams,Transfer,Cat,Domestic Shorthair,Black,7
+1279,A809555,,Transfer,Cat,Domestic Longhair Mix,Black,735
+1280,A786166,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,66
+1281,A832665,Moo Girl,Return to Owner,Cat,Domestic Shorthair,Black/White,213
+1282,A780606,,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,74
+1283,A715036,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,366
+1284,A821826,*176 Grams,Transfer,Cat,Domestic Shorthair,Gray,23
+1285,A795304,,Transfer,Cat,Domestic Shorthair,Gray Tabby,18
+1286,A849214,A849214,Adoption,Cat,Domestic Shorthair,White/Black,98
+1287,A832516,*Natali,Adoption,Cat,Domestic Shorthair,Torbie,110
+1288,A883193,Latte,Adoption,Cat,Domestic Longhair/Domestic Longhair,Lynx Point,52
+1289,A717426,*Ball,Adoption,Cat,Domestic Shorthair Mix,Torbie,90
+1290,A830341,138 Grams,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,4
+1291,A879889,Maverick,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,573
+1292,A799600,*Chloe,Adoption,Cat,Domestic Shorthair,Calico,93
+1293,A739031,,Transfer,Cat,Domestic Medium Hair Mix,Blue/White,367
+1294,A776365,,Transfer,Cat,Domestic Shorthair Mix,Tortie/Black,62
+1295,A678465,,Transfer,Cat,Domestic Shorthair Mix,Calico,23
+1296,A717052,Sebastian,Adoption,Cat,Siamese,Lynx Point,1126
+1297,A760182,,Transfer,Cat,Domestic Shorthair Mix,Calico,24
+1298,A882741,Panque,Adoption,Cat,Domestic Shorthair,Blue Tabby,102
+1299,A808615,*Fluff,Transfer,Cat,Domestic Shorthair,Calico,42
+1300,A700483,Selina,Adoption,Cat,Domestic Shorthair Mix,Black/White,741
+1301,A726555,,Adoption,Cat,Domestic Shorthair Mix,Torbie,100
+1302,A731259,,Adoption,Cat,Domestic Medium Hair Mix,Torbie,371
+1303,A681990,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,23
+1304,A745492,*Willienelso,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,179
+1305,A887435,A887435,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby/White,28
+1306,A846255,Sailoh,Adoption,Cat,Domestic Shorthair,Brown Tabby/White,169
+1307,A865932,A865932,Return to Owner,Cat,Domestic Shorthair Mix,Orange Tabby,186
+1308,A862463,*Stripes-Tiny,Transfer,Cat,Domestic Shorthair,Brown Tabby/White,23
+1309,A796257,*Sturgeon,Adoption,Cat,Domestic Shorthair,Black,87
+1310,A739383,*Bumble,Transfer,Cat,Domestic Shorthair Mix,Black/White,66
+1311,A757117,,Euthanasia,Cat,Domestic Shorthair Mix,Blue,32
+1312,A748760,*Echo,Adoption,Cat,Domestic Shorthair Mix,Black,161
+1313,A758085,Jacob,Adoption,Cat,American Shorthair Mix,Black/Black,2574
+1314,A795104,330 G,Transfer,Cat,Domestic Shorthair,Black/White,16
+1315,A732204,*Lilia,Adoption,Cat,Domestic Medium Hair Mix,Gray Tabby,505
+1316,A836181,A836181,Adoption,Cat,Domestic Shorthair,Orange Tabby/White,84
+1317,A776172,Audrey,Transfer,Cat,Domestic Shorthair Mix,Tortie,1504
+1318,A710356,,Transfer,Cat,Domestic Shorthair Mix,Black/White,7
+1319,A716341,Hermione,Adoption,Cat,Domestic Shorthair Mix,Tortie,83
+1320,A749852,*Marcel,Adoption,Cat,Domestic Shorthair Mix,Black/White,1548
+1321,A703924,*Groucho,Adoption,Cat,Domestic Medium Hair,Black/White,145
+1322,A865234,*Colin,Rto-Adopt,Cat,Domestic Shorthair,Brown Tabby/White,1833
+1323,A760126,Dizzy,Adoption,Cat,Domestic Shorthair Mix,Black/White,81
+1324,A712144,*Bellona,Transfer,Cat,Domestic Medium Hair Mix,Calico,385
+1325,A795341,*Baxter,Adoption,Cat,Domestic Medium Hair,Blue/White,1124
+1326,A679174,Cali,Adoption,Cat,Domestic Shorthair Mix,Tortie/White,72
+1327,A751775,,Adoption,Cat,Domestic Shorthair Mix,Black,113
+1328,A724599,,Transfer,Cat,Domestic Shorthair Mix,Gray Tabby,4
+1329,A703993,,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,28
+1330,A769739,Marilyn,Euthanasia,Cat,Turkish Angora Mix,White/Blue,183
+1331,A757981,,Euthanasia,Cat,Domestic Shorthair Mix,Black,3654
+1332,A888395,*Keanu Reeves,Adoption,Cat,Domestic Shorthair,Silver Tabby,106
+1333,A780671,,Transfer,Cat,American Shorthair Mix,Blue,32
+1334,A815233,Roxie,Adoption,Cat,Domestic Longhair,Calico,3688
+1335,A780270,*Dawson,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,212
+1336,A808080,,Transfer,Cat,Domestic Shorthair,Orange Tabby,2195
+1337,A697791,*Nord,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,63
+1338,A578813,Lola,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,3537
+1339,A889924,A889924,Adoption,Cat,Domestic Shorthair,Brown Tabby,80
+1340,A835444,,Euthanasia,Cat,Domestic Shorthair,Brown Tabby,48
+1341,A800056,Shelby,Adoption,Cat,Domestic Shorthair,Silver Tabby,79
+1342,A809278,,Transfer,Cat,Domestic Shorthair,Black/White,127
+1343,A716126,,Transfer,Cat,Domestic Shorthair Mix,Calico,735
+1344,A702968,*Betsy,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,26
+1345,A748080,*Rupert,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,74
+1346,A721890,Vader,Adoption,Cat,Domestic Shorthair Mix,Black,220
+1347,A703586,*Oak,Adoption,Cat,Siamese Mix,Black,100
+1348,A827015,Frank,Transfer,Cat,Domestic Shorthair,Brown Tabby,378
+1349,A680926,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby/White,23
+1350,A684649,Apollo,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby/White,64
+1351,A858856,,Adoption,Cat,Domestic Shorthair,Torbie,66
+1352,A683707,Petals,Adoption,Cat,Domestic Longhair Mix,White/Black,64
+1353,A449968,Bella,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,3099
+1354,A708710,,Transfer,Cat,Domestic Shorthair Mix,Black,16
+1355,A763767,Vickie,Adoption,Cat,Domestic Longhair Mix,Tortie,2937
+1356,A683519,,Euthanasia,Cat,Domestic Shorthair Mix,Calico,64
+1357,A804810,,Transfer,Cat,Domestic Shorthair,Brown Tabby,5
+1358,A791237,Luna,Adoption,Cat,Ragdoll Mix,Lilac Point,2573
+1359,A771350,Blazer,Adoption,Cat,Domestic Shorthair Mix,Black,71
+1360,A874710,Hamlet,Transfer,Cat,Domestic Shorthair,Blue Tabby/White,741
+1361,A797015,,Adoption,Cat,Domestic Medium Hair,Orange Tabby,70
+1362,A667447,*Violet,Transfer,Cat,Domestic Medium Hair Mix,Blue Tabby,159
+1363,A739135,,Transfer,Cat,Domestic Shorthair Mix,Calico,16
+1364,A702142,*Sassy,Transfer,Cat,Domestic Shorthair Mix,Tortie,741
+1365,A766494,Blaze,Return to Owner,Cat,Domestic Shorthair Mix,Orange Tabby,231
+1366,A667355,Mittens,Adoption,Cat,Maine Coon Mix,Brown Tabby/White,70
+1367,A667331,Cali,Adoption,Cat,Domestic Shorthair Mix,Calico/Brown Tabby,160
+1368,A703547,,Adoption,Cat,Domestic Shorthair Mix,Black,85
+1369,A877433,,Adoption,Cat,Domestic Shorthair,Blue,68
+1370,A759543,Jinxy,Adoption,Cat,Domestic Shorthair Mix,Torbie,157
+1371,A776317,Tiger,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby,411
+1372,A711039,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,28
+1373,A882763,325G,Transfer,Cat,Domestic Shorthair,Black/White,26
+1374,A710083,,Transfer,Cat,Domestic Shorthair Mix,Cream Tabby/White,154
+1375,A730928,,Transfer,Cat,Siamese Mix,Chocolate Point,367
+1376,A712679,*Vic,Adoption,Cat,Domestic Longhair Mix,Brown Tabby,105
+1377,A836360,,Transfer,Cat,Domestic Shorthair,Orange Tabby,23
+1378,A682880,,Transfer,Cat,Domestic Medium Hair Mix,Torbie,23
+1379,A773892,,Adoption,Cat,Domestic Shorthair Mix,Lilac Point,77
+1380,A722021,*Tiva,Adoption,Cat,Domestic Medium Hair Mix,Black/White,1483
+1381,A702070,,Transfer,Cat,Domestic Shorthair Mix,Blue,8
+1382,A708152,*Laurena,Adoption,Cat,Domestic Medium Hair Mix,Blue Tabby/White,142
+1383,A758049,*Barney,Adoption,Cat,Domestic Shorthair Mix,White/Black,89
+1384,A675519,Snuggles,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,1466
+1385,A731528,,Transfer,Cat,Domestic Shorthair Mix,White,367
+1386,A797945,*Lucy,Adoption,Cat,Domestic Medium Hair,White/Black,116
+1387,A756563,Mama,Adoption,Cat,Siamese Mix,Lynx Point,370
+1388,A744252,*Kanga,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,746
+1389,A861936,A861936,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,75
+1390,A744066,,Transfer,Cat,Domestic Longhair Mix,White/Black,82
+1391,A804344,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,4
+1392,A706484,Fat Boy,Transfer,Cat,Domestic Shorthair Mix,Black,1110
+1393,A820234,Angelina,Adoption,Cat,Domestic Shorthair,Brown Tabby,413
+1394,A759481,Lilly,Adoption,Cat,Domestic Longhair Mix,Torbie,3772
+1395,A778075,*Kiwi,Adoption,Cat,Domestic Shorthair Mix,Torbie,73
+1396,A889412,Fifi,Rto-Adopt,Cat,Snowshoe Mix,Cream/Seal Point,251
+1397,A679754,*Davey,Adoption,Cat,Domestic Shorthair Mix,Cream Tabby,113
+1398,A721448,,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,735
+1399,A664754,,Adoption,Cat,Domestic Shorthair Mix,Black,174
+1400,A713228,*Poppy,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,136
+1401,A759818,*Saint,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby/White,68
+1402,A706058,*Simon,Adoption,Cat,Domestic Shorthair Mix,Orange Tabby,121
+1403,A737674,,Transfer,Cat,Domestic Shorthair Mix,Orange,8
+1404,A726702,Pretty Boy,Adoption,Cat,Siamese Mix,Flame Point,1836
+1405,A845418,A845418,Transfer,Cat,Domestic Shorthair,Agouti,74
+1406,A863690,Caddo,Return to Owner,Cat,Domestic Shorthair,Brown Tabby,731
+1407,A686088,*Wilson,Transfer,Cat,Domestic Medium Hair Mix,Orange Tabby,85
+1408,A687276,*Jasmine,Transfer,Cat,Domestic Shorthair Mix,Orange Tabby,733
+1409,A806090,,Transfer,Cat,Domestic Shorthair,Black,369
+1410,A737429,,Euthanasia,Cat,Domestic Shorthair Mix,Brown Tabby/White,386
+1411,A864804,*Pigeon,Adoption,Cat,Domestic Shorthair,Blue/White,108
+1412,A786070,Bear Bear,Adoption,Cat,Domestic Shorthair Mix,Black,371
+1413,A679940,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,365
+1414,A732343,,Transfer,Cat,Domestic Shorthair Mix,Brown Tabby,23
+1415,A875006,,Adoption,Cat,Domestic Medium Hair,Brown Tabby,111
+1416,A868894,A868894,Transfer,Cat,Domestic Shorthair,Calico,732
+1417,A717945,*Art,Transfer,Cat,Domestic Shorthair Mix,Black,1097
+1418,A715063,Mia,Return to Owner,Cat,Domestic Shorthair Mix,Blue/White,1828
+1419,A745493,*Waylon,Adoption,Cat,Domestic Shorthair Mix,Brown Tabby,209
+1420,A777021,,Transfer,Cat,Domestic Shorthair Mix,White/Brown Tabby,16
+1421,A712529,*Starburst,Adoption,Cat,Domestic Shorthair Mix,Black,87
+1422,A811469,Oj,Adoption,Cat,Domestic Shorthair,Orange Tabby,296
+1423,A755281,Haku,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,221
+1424,A867458,,Adoption,Cat,Domestic Shorthair,Brown Tabby,93
+1425,A727389,*Blossom,Adoption,Cat,Domestic Shorthair Mix,Calico,72
+1426,A870440,Tumbleweed,Adoption,Cat,Domestic Shorthair,Orange Tabby,790
+1427,A677592,,Transfer,Cat,Domestic Shorthair Mix,Black Tabby,8
+1428,A798383,*Paisley,Adoption,Cat,Domestic Shorthair,Brown Tabby,199
+1429,A682930,,Transfer,Cat,Domestic Shorthair Mix,Blue/White,16
+1430,A733598,*Maurice,Adoption,Cat,Domestic Shorthair Mix,Blue Tabby/White,64
+1431,A772637,,Euthanasia,Cat,Domestic Medium Hair Mix,White/Blue,31
+1432,A712141,,Transfer,Cat,Domestic Medium Hair Mix,Black/White,6
+1433,A666706,*Violet,Transfer,Cat,Russian Blue Mix,Blue,375
+1434,A783728,*Diane,Transfer,Cat,Domestic Shorthair Mix,Torbie,33
+1435,A853743,*Mia,Adoption,Cat,Domestic Medium Hair,Blue Tabby,2195
